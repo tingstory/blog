@@ -2,11 +2,13 @@
 
 title: Chrome 插件（扩展程序） 清单   
 date: 2019-10-13  
-updated: 2019-10-26  
-categories: 数字生活  
+updated: 2019-11-04  
+categories: 数字生活   
+
 tags: 
 - 数字生活
 - Chrome
+
 permalink: chrome
 
 ---
@@ -15,46 +17,34 @@ Google Chrome（谷歌浏览器）是我在电脑上每天**使用时间最长�
 
 <!-- more -->
 
-## 前言
-
-
-### 为什么选 Chrome
+## 为什么选 Chrome
 
 - 2008 年 9 月 2 日，Google 发布网页浏览器 Chrome（音标：[krəʊm](https://dictionary.cambridge.org/zhs/发音/英语/chrome)）。时至今日，Chrome 已经是全球 66% 用户的选择。
-- 超过 15 万款 Chrome 扩展程序（俗称插件）可供你随心选择，按照自己的喜好扩展浏览器的功能（最强大的地方）。
-- 自动网页翻译。
-- 开启同步功能（登陆 Google 账号）后，Chrome 便会在你的电脑和手机上自动同步您的最新活动状态（例如扩展程序、书签、历史记录、密码和其他设置）。这样，无论身在何处，都能在自己的设备上享受一致的体验。但是这之前，你需要学会 [科学上网](https://tingtalk.me/fq/)。
+- 超过 15 万款 Chrome 扩展程序（俗称插件）可供你随心选择，这就是 Chrome 最强大的地方。
+- 没有广告，界面简洁；自动网页翻译；自动简繁转换。
+- 拥有 [科学上网](https://tingtalk.me/fq/) 的能力后，开启同步功能（登陆 Google 账号）后，Chrome 便会在你的电脑和手机上自动同步您的最新活动状态（例如扩展程序、书签、历史记录、密码和其他设置）。这样，无论身在何处，都能在自己的设备上享受一致的体验。
+- 如果疲于搭建科学上网的环境，采用 Chromium 内核的 [Microsoft Edge](https://www.microsoftedgeinsider.com/) 就是你的最佳选择。Chrome 上的功能 Edge 都有，Chrome 上的插件，Edge 都能用，支持一键导入 Chrome 上的数据。
 
 
-
-**下载地址**
+**下载**
 
 - [Chrome 官方下载网址](https://www.google.cn/chrome/)：google.cn/chrome
 - [Chrome 最新版离线安装包下载网址](https://www.iplaysoft.com/tools/chrome/)：iplaysoft.com/tools/chrome
-- [RunningCheese Chrome](https://www.runningcheese.com/chrome )：runningcheese.com/chrome 
+- [RunningCheese 定制版 Chrome 下载网址](https://www.runningcheese.com/chrome )：runningcheese.com/chrome 
   - 绿色便携，内核可随 Chrome 官方发布的版本更新。
   - 自带常用插件。
-  - 配置好了很多功能，比如谷歌英文、多重搜索等搜索引擎
+  - 配置好了很多功能，比如多重搜索引擎
   - 百度网盘加速下载，视频去广告，翻译，下载，代理，小窗播放等。 
-
-
-
-
 
 ## 扩展程序
 
 正所谓无篮球，不兄弟。无插件，不 Chrome。
 
+**如何安装插件**
 
-
-**安装插件**
-
-- 直接安装：直接在 Google 搜索引擎 或 Chrome 网上应用店 输入插件的名称，即可下载安装，后续插件也会自动更新，前提是你会 科学上网。想要在网上无拘无束地「冲浪」，这个基本技能你必须学会。
-- 离线安装：若不具备访问国际互联网的环境（先心疼你一秒），也有方法曲线救国。
-  - 在第三方插件平台（例如 极简插件）下载安装文件
-  - 在地址栏输入 `chrome://extensions/`
-  - 打开 `开发者模`式 
-  - 拖动 ***.crx 或 ***.zip 到 Chrome 即可安装
+- 直接安装：直接在 [Google 搜索引擎](https://www.google.com/ncr) 或 [Chrome 网上应用店](https://chrome.google.com/webstore/category/extensions) 输入插件的名称，即可下载安装。
+- 离线安装：若不具备访问国际互联网的环境，参阅这个 [Chrome 插件离线安装方法（兼容全版本）](https://sspai.com/post/52767
+)
 
 
 **云同步**
