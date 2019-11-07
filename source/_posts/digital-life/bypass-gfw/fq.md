@@ -19,6 +19,7 @@ However，Just My Socks 月付 2.88 的番茄缺货中，预计年底才会补�
 
 遇到困难，无法访问 Google 的情况下，先去 [必应搜索（国际版）](https://cn.bing.com/) 寻找答案。无法克服，请到文末找到我的联系方式。My mission is to give you freedom.
 
+
 <!-- more -->
 
 ## 前言
@@ -30,13 +31,14 @@ However，Just My Socks 月付 2.88 的番茄缺货中，预计年底才会补�
 
 它们不仅会上报给国家谁在吃番茄，还会偷偷地在你的番茄里下毒。
 
-
 | ✔️                                                      | ❌                        |
 | :----------------------------------------------------------- | :------------------------------ |
 | [火绒安全](https://www.huorong.cn/) <br/> Windows 10 自带的安全中心 | 360 安全卫士<br />腾讯电脑管家<br />金山毒霸<br />…… |
 | [Google Chrome](https://www.google.cn/chrome/)（谷歌浏览器）<br/>  [Firefox](https://www.mozilla.org/zh-CN/firefox/)（火狐浏览器）<br/> [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/)（Windows 10 自带） | 360 浏览器<br />QQ 浏览器<br />搜狗浏览器<br />UC 浏览器<br />…… |
 | Windows 10 自带的拼音 / 五笔输入法 | 搜狗输入法 <br/> QQ 输入法 <br/> 百度输入法<br />…… |
 
+
+关联阅读：[Windows 电脑佳软推荐](https://tingtalk.me/windows/)。
 
 
 ### 审查就在你的身边

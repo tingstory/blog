@@ -2,7 +2,7 @@
 
 title: Illustrator, Photoshop and InDesign Tips    
 date: 2019-07-03   
-updated: 2019-10-10  
+updated: 2019-11-05  
 categories: 设计  
 
 tags: 
@@ -238,6 +238,20 @@ permalink: adobe
 
 
 > 参考来源：[Illustrator 用户指南 - 创建 Adobe PDF 文件](https://helpx.adobe.com/cn/illustrator/using/creating-pdf-files.html)
+
+
+### 将文本导出到文本文件
+
+1. 使用文字工具选择要导出的文本。
+2. 选择 `文`件 > `导出`。
+3. 在导出对话框中，选择文件位置并输入文件名。
+4. 选择文本格式 (TXT) 作为文件格式。
+5. 在名称框中输入新文本文件的名称，然后单击保存 (Windows) 或导出 (Mac OS)。
+6. 选择一种平台和编码方法，然后单击导出。
+
+参考资料：[在 Illustrator 中导入和导出文本](https://helpx.adobe.com/cn/illustrator/using/importing-exporting-text.html)
+
+
 
 
 

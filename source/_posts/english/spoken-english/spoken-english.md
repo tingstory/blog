@@ -88,41 +88,41 @@ Keep talking.
 
 
 `I need to cook.`
-
 - 我要去做饭了。
 
 `Do you like to cook?`
-
 - 你喜欢做饭吗？
 
 `I do enjoy cooking.`
-
 - 我很喜欢做饭。
 
 `Cooking makes me feel relaxed.`
-
 - 做饭对我来说就是休息。
 
 `Are you good at cooking?`
-
 - 你做饭在行吗？   
 
 `What are we cooking?`
-
 - 咱们晚饭做什么？
 
 `I'm going to start making dinner.`
-
 - 我该准备晚饭了。
 
-
 `Can I take you out for dinner?`
-
 - 我可以请你吃晚饭吗？
 
 `My treat. It's on me.`
-
 - 我请客。
+
+
+`boxed meal`
+- （从餐厅买的）盒饭
+
+
+`My mom made me a packed lunch` / `My mom packed lunch`/ `My mom prepared me for a brown bag lunch` / `I just brown bag it`
+- 外带午餐（bento）
+
+
 
 
 
@@ -130,6 +130,30 @@ Keep talking.
 
 We had a breakdown in communication.
 我们没沟通好。
+
+## D
+
+### Date
+
+
+| 介词 | 用法                                                         | 举例                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| `at` | 一个准确、特定的时刻<br />at precise time                    | at 07:11<br/>at 10 o'clock<br/>at noon<br/>at noon yesterday<br/>at night<br/>at midnight<br/>at the same time |
+| `in` | 一段较长而非特定的时间<br />in months, years, centuries, long periods | in the morning <br />in the afternoon <br />in the evening <br />in the week<br />in January <br />in March, 2015 <br />in 2015 <br />in the spring  <br />in the past year <br />in the 18th century <br />in the future |
+| `on` | 特定日期、星期<br />at days and dates                        | on Monday<br/>on Tuesday morning<br/>on 28, April<br/>on New Year's Day<br/>on Christmas Day<br/>on the weekend |
+
+
+| 英式日期 | 日 月, 年 | 22 July, 2016 |
+| -------- | --------- | ------------- |
+| 美式日期 | 月 日, 年 | July 22, 2016 |
+
+
+**Q**：为什么我们用 `in the morning` 、`the afternoon`、 `in the evening` ，但却是用 `at night` 呢？  
+**A**：`in` 用在一段较长而「非特定」的时间；`at` 用在一段「特定」的时刻，而 `night` 一般是英语人士表示睡前没事要做的那段「特定时间」，大概就是晚上九到十二点间，所以相较 `morning`、`afternoon` 这些范围较大且较无特定的时间，我们就相对会用 `at night`。
+
+
+**Q**： 星期、日期、时间点放在一起，先说哪个？  
+**A**： Please join us for an invitation-only event at the Bill Graham Civic Auditorium in San Francisco `on Wednesday, September 7, at 10:00 a.m.` 需要牢记的是，星期（day）总是放在日期（date）的前面。而具体时间点，则相对比较灵活，可以放在最前，也可位于最后，但不会放置在 day 和 date 之间。
 
 
 
@@ -153,6 +177,9 @@ You make my day!
 - Better luck next time.
 - Any luck? / No luck?   
   怎么样 / 成功了吗？
+
+
+
 
 
 
@@ -331,6 +358,4 @@ It was really thoughtful of you to remember my birthday.
 - ✔️ Anything is fine. / Anything will do.
 - ✔️ Up to you. / It's up to you. 你决定。
 - ❌ Whatever = I don't care.
-
-
 
