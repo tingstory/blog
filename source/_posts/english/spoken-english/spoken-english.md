@@ -2,7 +2,7 @@
 
 title: 英语口语：日常篇    
 date: 2019-07-14  
-updated: 2019-11-04  
+updated: 2019-11-08  
 categories: 
 - 英语
 - 英语口语
@@ -157,6 +157,15 @@ We had a breakdown in communication.
 
 
 
+## F
+
+### `Feature` vs `Function`
+
+- `Feature`：What's the difference? (特点、特征)
+- `Function`：What's this? (功能、用途)
+
+
+
 ## H
 
 ### Happy
@@ -234,7 +243,7 @@ You make my day!
 
 ## O
 
-### ## Of course
+### Of course
 
 回答一些理所当然的问题时才能用 Of course，隐含的意思是「还用说吗」。
 
@@ -266,9 +275,40 @@ You make my day!
 > Of course not.   
 > 当然不会（介意）。  
 
+
+
+### orchard
+
+We found a pick-your-own apple orchard `'ɔrtʃərd`.   
+我们找到一个可以自己采摘的苹果园。
+
+
 ## S
 
-###  Sorry
+### Sick
+
+生病的
+
+- `Sick` 口语中更常用
+- `Ill` 比较正式
+
+ 生病的说法
+
+- `Are you sick?` 你生病了吗？
+
+- `I got a little sick` 生病了 
+- `I'm not feeling very well.` 我身体不太舒服。
+- `I don't feel well.` 我身体不太舒服。
+- `I got food poisoning.` 我食物中毒了。
+- `I ate something bad.` 我吃坏肚子了。
+
+易错点
+
+-  `I'm feeling bad, I couldn't make it to the party.` 没法去派对，我感到很遗憾。 
+
+
+
+### Sorry
 
 - I am terribly sorry, but …
 - I'm sorry to keep you waiting.

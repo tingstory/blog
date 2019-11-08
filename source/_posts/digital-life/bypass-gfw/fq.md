@@ -2,12 +2,17 @@
 
 title: 番茄食用指南  
 date: 2016-03-03  
-updated: 2019-11-08  
-categories: [数字生活, 科学上网]  
+updated: 2019-11-09  
+
+categories: 
+- 数字生活
+- 科学上网
+
 tags:
 - 数字生活
 - 科学上网
 - Shadowsocks
+
 quicklink: true  
 permalink: fq  
 
@@ -15,9 +20,9 @@ permalink: fq
 
 每一个做外贸，搞设计，写代码或对数字生活有追求的人，都离不开 🍅 番茄（fān qiáng）。
 
-However，Just My Socks 月付 2.88 的番茄缺货中，预计年底才会补货（目前最低价 $5.88）。价格敏感的用户可以选 [flycloud](https://www.flycloud.ws/auth/register?code=Lugd) 家的番茄，月付最低只要 ￥5（使用优惠码 `S11` 后只要 ￥4），如何吃 flycloud 家的番茄，直接参见 flycloud 提供的 `下载和教程`。
+However，Just My Socks 月付 $2.88 的番茄缺货中，预计年底才会补货（目前最低价 $5.88）。价格敏感的用户可以选 [flycloud](https://www.flycloud.ws/auth/register?code=Lugd) 家的番茄，月付最低只要 ￥5（使用优惠码 `S11` 后只要 ￥4），如何吃 flycloud 家的番茄，直接参见 flycloud 提供的 `下载和教程`。
 
-遇到困难，无法访问 Google 的情况下，先去 [必应搜索（国际版）](https://cn.bing.com/) 寻找答案。无法克服，请到文末找到我的联系方式。My mission is to give you freedom.
+遇到困难，无法访问 Google 的情况下，先去 [必应搜索（国际版）](https://cn.bing.com/) 寻找答案。无法攻克，文末有我的联系方式。My mission is to give you freedom.
 
 
 <!-- more -->

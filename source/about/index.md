@@ -26,7 +26,7 @@ quicklink: true
 - 入门过 [平面设计](https://tingtalk.me/categories/design/)，能熟练换 Logo。
 - 喜欢 [手机摄影](https://tingtalk.me/photography/)，但反感过度美颜。
 - [海贼王（One Piece）](https://tingtalk.me/one-piece-english/) 十年铁杆粉（只看动漫）。
-- 目前在努力 [学英语](https://tingtalk.me/english-pronunciation/)，争取有朝一日可以出国生活。
+- 目前在努力 [学英语](https://tingtalk.me/categories/english/)，争取有朝一日可以出国生活。
 
 
 
@@ -36,7 +36,7 @@ quicklink: true
 - 趁年轻，在身体未出现健康问题前，及早配置好 [保险](https://tingtalk.me/personal-insurance/)。对于普通收入的人来说，一年的费用从三千元到一万元不等即可防止因病致贫。
 
 
-## What I did
+## What I Did
 
 - 2017 年毕业前夕，我在一家外贸（番茄）路由器做新媒体编辑。这是一家熬过了 3 年的创业公司，但是在 2017 年秋天被不可抗力 [取缔](https://www.zhihu.com/question/67206264) 了。 
 - 前路迷茫之下，我只好回到大学专业（智能电网信息工程）的怀抱，陆续在 [Friendcom](http://www.friendcom.com/) 和 [CLOU](https://www.szclou.com/) 呆过，岗位是电能表测试工程师，但我害怕自己一辈子只能跟用电信息采集设备打交道，于是开启了新的求职之旅。
@@ -73,7 +73,8 @@ quicklink: true
 
 
 **科学上网服务商**
-- [Just My Socks](https://justmysocks1.net/members/aff.php?aff=1010)（下单优惠码 `JMS9272283`）。
+- [Just My Socks](https://justmysocks1.net/members/aff.php?aff=1010)：月付最低 $5.88（下单优惠码 `JMS9272283`）。
+- [flycloud](https://www.flycloud.ws/auth/register?code=Lugd)： 月付最低只要 ￥5（使用优惠码 `S11` 后只要 ￥4）
 
 
 **若是文章对你有帮助，微信扫描下方赞赏码，给予小额鼓励：**

@@ -2,11 +2,12 @@
 
 title: 英语佳句  
 date: 2019-07-28  
-updated: 2019-09-25    
+updated: 2019-11-08    
 categories: 英语  
 tags:
 - 英语
 - 佳句
+
 permalink: quotes
 
 ---
@@ -15,6 +16,8 @@ As the saying goes …
 
 <!-- more -->
 
+`All men are created equal.`
+- 人生而平等。
 
 `If you don't dream, you might as well be dead.` 
 - 做人如果没有梦想，跟咸鱼有什么分别。by George Foreman（职业拳击手：乔治·福尔曼）
