@@ -2,7 +2,7 @@
 
 title: Markdown 入门教程及书写风格指南  
 date: 2016-03-15  
-updated: 2019-10-26  
+updated: 2019-11-09  
 categories: [设计, 排版]  
 
 tags: 
@@ -515,6 +515,11 @@ Markdown 的用途很广。Write once, export everywhere：写博客、写邮件
 
 - 对于 [Xmind](https://www.xmind.cn/) / [MindNode](https://mindnode.com/)  / [百度脑图](http://naotu.baidu.com/) 等思维导图工具，直接导入 md 文档。
 - 对于幕布，可以用 Typora 导出 opml 格式，再导入。
+
+### 从网页导出 md 格式
+
+
+借助浏览器插件 [简约](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll) 导出 md 格式的网页，不用 手动添加标记符号。
 
 
 

@@ -34,7 +34,8 @@ permalink: typography
 | GitHub        | Github、github               |
 | Google        | google                       |
 | iOS           | IOS                          |
-| iPhone XS Max | iphone xs MAX |
+| iPhone XS Max | iphone xs MAX                |
+| macOS         | MacOS                        |
 | kg            | KG、Kg                       |
 | km            | Km、KM                       |
 | Markdown      | MarkDown                     |
@@ -399,7 +400,7 @@ permalink: typography
 
 **关联阅读**
 
-- [英文排版指南](https://tingtalk.me/english-typos/)
+- [英文排版（风格）指南](https://tingtalk.me/english-style-guide/)
 - [公众号排版指南](https://mp.weixin.qq.com/s/7TX2e_1_AmH9aP7z0Io-qQ)
 
 

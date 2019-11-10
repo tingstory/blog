@@ -34,10 +34,6 @@ permalink: tinglish
     - [英文名大全](https://babynames.net/)
 
 
-
-
-
-
 ## 书写
 
 **请使用英文标点符号**
@@ -128,11 +124,8 @@ permalink: tinglish
 
 ## 学习网站
 
-
 - [Genius](https://genius.com) is the world's biggest collection of song lyrics and musical knowledge. 该网站允许使用者对歌曲歌词、新闻故事、诗歌和文件等提供注释和解释。
 - [VoiceTube](https://tw.voicetube.com)：看影片学英语。上万部 YouTube 影片教材，搭配中英文翻译字幕与英汉字典，轻松掌握日常对话、了解单字的发音与用法。
-
-
 
 
 
@@ -152,6 +145,14 @@ permalink: tinglish
 其实很多小伙伴的单词量都很不少，但就是开不了口，这也许是因为不知道如何把这些单词组合成一句话。那就让我们回到童年，和孩子一起，用最初的方式掌握一门语言。
 
 目前我手头没有自己的孩子可以实践这个想法，周末有空的时候，我去抓几个外甥试验一下，看看效果如何。Let's moving on.
+
+## 学习方法论
+
+- [人人都能用英语 by 李笑来](http://lixiaolai.com/#/everyone-can-use-english/)：「口语 - 如何创作自己的口语书？」讲得不错（其他章节也不赖）。
+
+
+
+
 
 
 
