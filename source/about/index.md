@@ -23,6 +23,7 @@ quicklink: true
 - 帮过一些网友远程重装 [Windows](https://tingtalk.me/windows/) 系统，并总结了一些 [数字生活的小技巧](https://tingtalk.me/digital-life-tips/)。
 - 按照这个 [Hexo 教程](https://easyhexo.com/)，你也可以在半个小时内搭建一个和我一模一样的 [博客](https://tingtalk.me/categories/website/hexo/)。
 - 追求优雅的 [排版](https://tingtalk.me/typography/) 并自豪的采用 [Markdown](https://tingtalk.me/markdown/) 进行 [写作](https://tingtalk.me/categories/others/mandarin/)。
+- 纸上谈兵的 Loser，喜欢写东西，但没有执行力。
 - 入门过 [平面设计](https://tingtalk.me/categories/design/)，能熟练换 Logo。
 - 喜欢 [手机摄影](https://tingtalk.me/photography/)，但反感过度美颜。
 - [海贼王（One Piece）](https://tingtalk.me/one-piece-english/) 十年铁杆粉（只看动漫）。

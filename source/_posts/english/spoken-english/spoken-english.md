@@ -290,17 +290,18 @@ We found a pick-your-own apple orchard `'ɔrtʃərd`.
 生病的
 
 - `Sick` 口语中更常用
+  -   呕吐的：`seasick` 晕船、`carsick` 晕车、`airsick` 晕飞机
 - `Ill` 比较正式
 
  生病的说法
 
 - `Are you sick?` 你生病了吗？
-
 - `I got a little sick` 生病了 
 - `I'm not feeling very well.` 我身体不太舒服。
 - `I don't feel well.` 我身体不太舒服。
 - `I got food poisoning.` 我食物中毒了。
 - `I ate something bad.` 我吃坏肚子了。
+- `He is sick with influenza.` 他患了流行性感冒。
 
 易错点
 

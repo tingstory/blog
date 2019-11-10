@@ -119,30 +119,29 @@ SMTP Port填465
 - 从淘宝找货代
 - 从 [91出口网](http://www.91chukou.com/) 找
 
-
 ## 购买域名
 
 **哪里购买**
-- 推荐在 [NameSilo](https://www.namesilo.com/?rid=d1eaf64se ) 购买
+- 推荐在 [NameSilo](https://www.namesilo.com/?rid=d1eaf64se ) 购买。
+- [NameBeta](https://namebeta.com/)：共收录 1583 种 [顶级域名](https://namebeta.com/tlds)，汇集互联网上 27 家 [知名域名注册商](https://namebeta.com/registrars)，并且每日更新价格信息（截至。
 
+**挑选意见**
 
-**销售导向**
-- 带选品关键词：你经营的项目是玻璃替代品，你可以注册 `GlassRepair.com`  或是 `GlassReplacement.com`
-- 如果你的产品或服务涉及较多本地业务：`ShanghaiGlassRepair.com`
-- 行业词 + 另外一个词（例如动物名称）：`mailchimp.com`
-- 单词的变化：`storify.com`
-- 后缀的变化：`.store`、`.shop`、`.adult`、`.biz`……   
-- 形容词 + 关键词：happy, good, nature, color
-- 避免使用拼音、数字和连字符 `-`，错误案例 `www.gouzi-online.com`
-- 单词复数更好
-
-
-**品牌导向**
-- 品牌词 + 关键词：`TKBattery.com`
-- 首选 `.com`，次选 `.net`，不要选 `.cn`
-- 不要出现 `store`、`shop`、`deal` 等单词
-- 由能拼读的 1 个 ~ 2 个单词
-- 简单好记有特色，让人印象深刻
+- 首选 `.com`，次选 `.net`，不要选 `.cn`。
+- 越短越好。
+- 容易朗读和拼写
+  - 由能拼读的 1 个 ~ 2 个单词组成，避免使用拼音。
+  - 避免使用数字。
+  - 避免使用连字符 `-`，例如 `www.ting-talk.com`。
+- 带关键词
+  - 你经营的项目是玻璃替代品，你可以注册 `GlassRepair.com`  或是 `GlassReplacement.com`。
+  - 如果你的产品或服务涉及较多本地业务：`ShanghaiGlassRepair.com`。
+  - 品牌词 + 关键词：`TKBattery.com`。
+  - 行业词 + 另外一个词（例如动物名称）：`mailchimp.com`。
+  - 形容词 + 关键词：`happybasketball.com`
+- 被占用怎么办
+  - 单词的变化：`storify.com`。
+  - 后缀的变化（首选 `com`）：`.store`、`.shop`、`.adult`……
 
 
 **域名生成器**
