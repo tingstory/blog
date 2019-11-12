@@ -2,7 +2,7 @@
 
 title: 怎么学英语  
 date: 2019-07-16  
-updated: 2019-10-31  
+updated: 2019-11-12  
 categories: 英语  
 tags: 英语  
 permalink: tinglish  
@@ -11,38 +11,27 @@ permalink: tinglish
 
 在学习英语过程中，我想把那些「怦然心动」的瞬间分享给读者们（seize the moment）。添加作者的微信 `804 976 336`，邀你进群围观。Let's have fun and enjoy it.
 
-
 <!-- more -->
 
 
 ## 前言
 
-
 **Group Notice**
+
 - 只发送有信息增量的消息。
-- 表达你想法时少用表情包，尽量用英文（但也不排斥中文）去阐述。说错了也无妨，每纠正一次，意味你就进步一点。
+- 表达你的想法时少用表情包，尽量用英文（但也不排斥中文）去阐述。说错了也无妨，每纠正一次，意味你就进步一点。
+- 请使用英文（半角）标点符号，并在标点符号后面空一格。更多书写细节，参阅这篇 [英文风格指南](https://tingtalk.me/english-style-guide/)。
 - 任何关于英语方面的疑问，都欢迎在此群提出。
 - 第一次运营这么大的群聊，如有叨扰，请大胆地退出，这并不会影响我们之间的「交情」。
 
-
 **Getting Ready**
+
 - 把群聊设置为「消息免打扰」
 - 把群昵称改成英文名
     - [扇贝起名](http://ename.shanbay.com.cn/)：根据中文名的发音和意义来为你匹配地道的英文名。如不满意，多生成几次
     - 拼音起名：俞莲舟 👉🏿 Lianzhou Yu
     - [英文名背后的含义](https://www.behindthename.com/)
     - [英文名大全](https://babynames.net/)
-
-
-## 书写
-
-**请使用英文标点符号**
-- ✔️ If you wait, all that happens is you getting older.
-- ❌ If you wait，all that happens is you getting older。
-
-**英文标点符号后面空一格**
-- ✔️ Hi everyone,I am Jadon.
-- ❌ Hi everyone,` `I am Jadon.
 
 
 ## 听力和发音
@@ -149,10 +138,6 @@ permalink: tinglish
 ## 学习方法论
 
 - [人人都能用英语 by 李笑来](http://lixiaolai.com/#/everyone-can-use-english/)：「口语 - 如何创作自己的口语书？」讲得不错（其他章节也不赖）。
-
-
-
-
 
 
 

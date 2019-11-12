@@ -2,18 +2,13 @@
 
 title: 摄影技巧  
 date: 2019-06-16  
-updated: 2019-06-25 
+updated: 2019-11-12 
 categories: 设计  
-
-tags: 
-- 摄影
-
+tags: 摄影
 permalink: photography  
-
-
 ---
 
-虽然没有女朋友当模特，但技多不压身呀。
+不断按下快门，是摄影师的必修课。
 
 <!-- more -->
 
@@ -23,6 +18,7 @@ permalink: photography
 ### 人像摄影
 
 **Pose**
+
 - 摸耳朵
 - 托腮
 - 回眸连拍
@@ -46,6 +42,7 @@ permalink: photography
 - 模特不自然：先望向别处，拍摄时再看镜头
 - 利用广角畸变拍出大长腿：脚尖不用触及屏幕底部
 - 把眼睛放在参考线三分之一
+- 如果你刚刚开始学习人像拍摄，和模特沟通永远是第一位。当你想要一个动作，最好的方式就是示范给她看。而对女性拍摄来说，让身体呈现优美的「S」形，肯定不会出错。by [果核Group](https://guohe.group/)
 
 
 ### 视频拍摄
@@ -86,4 +83,5 @@ permalink: photography
 - 自动对焦 / 手动对焦
 
 **AEL**
+
 - 曝光锁定

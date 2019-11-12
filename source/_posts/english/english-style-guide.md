@@ -1,13 +1,15 @@
 ---
 
-title: 英文风格指南
+title: 英文风格指南  
 date: 2019-08-03  
 updated: 2019-10-31  
-categories: 英语
+categories: 英语  
+
 tags:  
 - 英语
 - 英语风格 
 - 标点符号
+
 permalink: english-style-guide
 
 

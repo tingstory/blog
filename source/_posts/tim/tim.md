@@ -2,7 +2,7 @@
 
 title: Who Am I 
 date: 1994-01-25  
-updated: 2019-10-26
+updated: 2019-11-12
 categories: 庭勃士
 
 tags: 
@@ -26,6 +26,8 @@ permalink: tim
 - 2016 年 3 月 3 日：那时我刚学会 [科学上网](https://tingtalk.me/fq/)，一位叫南极雪的网友送给我一个生日礼物：[草榴社区](http://t66y.com/) 会员，按照约定，我手抄了一千六百字（6 页纸）的 [技术讨论区的版规](https://t66y.com/htm_data/1602/7/37458.html)。虽然我成了「上榴人士」，但等级至今还是「新手上路」，惭愧。
 - 2018 年 3 月 13 日：因转发一条 Twitter 评论（关键词：连任）到微信群（24 人）被请去「喝茶」，罪名「传播不当言论」。
 - 秉持唯物主义，凡事要讲科学依据：不信鬼神，不信星座，不信红内裤。
+- I usually give people the benefit of the doubt. （把人往好处想。）
+- keep it real.
 - By the way, I am single and available.
 
 ## 喜欢吃的东西

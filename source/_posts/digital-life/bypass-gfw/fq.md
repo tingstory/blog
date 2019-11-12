@@ -2,7 +2,7 @@
 
 title: 番茄食用指南  
 date: 2016-03-03  
-updated: 2019-11-09  
+updated: 2019-11-13  
 
 categories: 
 - 数字生活
@@ -18,33 +18,27 @@ permalink: fq
 
 ---
 
-每一个做外贸，搞设计，写代码或对数字生活有追求的人，都离不开 🍅 番茄（fān qiáng）。
-
-However，Just My Socks 月付 $2.88 的番茄缺货中，预计年底才会补货（目前最低价 $5.88）。价格敏感的用户可以选 [flycloud](https://www.flycloud.ws/auth/register?code=Lugd) 家的番茄，月付最低只要 ￥5（使用优惠码 `S11` 后只要 ￥4），如何吃 flycloud 家的番茄，直接参见 flycloud 提供的 `下载和教程`。
-
-遇到困难，无法访问 Google 的情况下，先去 [必应搜索（国际版）](https://cn.bing.com/) 寻找答案。无法攻克，文末有我的联系方式。My mission is to give you freedom.
-
+每一个做外贸，搞设计，写代码或对数字生活有追求的人，都离不开「网上冲浪」必备佳品：🍅 番茄（fān qiáng）。
 
 <!-- more -->
 
 ## 前言
 
-为了顺利地吃上番茄，请做好 2 件事。
+番茄是一种恶魔果实，可以让食用者得到一种特殊的能力：访问 Google。但是如果你在中国大陆吃番茄，请做好 2 件事。
 
 
 ### 远离国产流氓软件
 
-它们不仅会上报给国家谁在吃番茄，还会偷偷地在你的番茄里下毒。
+它们不仅会上报给网管谁在吃番茄，还会偷偷地在你的番茄里下毒。
 
 | ✔️                                                      | ❌                        |
 | :----------------------------------------------------------- | :------------------------------ |
-| [火绒安全](https://www.huorong.cn/) <br/> Windows 10 自带的安全中心 | 360 安全卫士<br />腾讯电脑管家<br />金山毒霸<br />…… |
-| [Google Chrome](https://www.google.cn/chrome/)（谷歌浏览器）<br/>  [Firefox](https://www.mozilla.org/zh-CN/firefox/)（火狐浏览器）<br/> [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/)（Windows 10 自带） | 360 浏览器<br />QQ 浏览器<br />搜狗浏览器<br />UC 浏览器<br />…… |
-| Windows 10 自带的拼音 / 五笔输入法 | 搜狗输入法 <br/> QQ 输入法 <br/> 百度输入法<br />…… |
+| [火绒安全](https://www.huorong.cn/) <br/>Windows 10 自带的安全中心 | 360 安全卫士<br />腾讯电脑管家<br />金山毒霸<br />…… |
+| [Google Chrome](https://www.google.cn/chrome/)（谷歌浏览器）<br/>  [Firefox](https://www.mozilla.org/zh-CN/firefox/)（火狐浏览器）<br/> Windows 10 自带的 [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) | 360 浏览器<br />QQ 浏览器<br />搜狗浏览器<br />UC 浏览器<br />…… |
+| Windows 10 自带的拼音 / 五笔输入法 | 搜狗输入法 <br/>QQ 输入法 <br/>百度输入法<br/>…… |
 
 
 关联阅读：[Windows 电脑佳软推荐](https://tingtalk.me/windows/)。
-
 
 ### 审查就在你的身边
 
@@ -61,56 +55,75 @@ However，Just My Socks 月付 $2.88 的番茄缺货中，预计年底才会补�
 - 诽谤他人，泄露他人隐私，侵害他人合法权益；
 - 含有法律、行政法规禁止的其他内容的信息。
 
-Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党（Ting Dang）指挥，千万别以为能上外网就可以为所欲为。否则你就会重蹈庭勃士的覆辙：因转发 Twitter 的「不当言论」到微信（WeCheck）群，被抓进派出所 Yum Cha。
+Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党（Ting Dang）指挥，千万别以为出海了就可以为所欲为。否则你可能就会重蹈庭勃士的覆辙：因转发 Twitter 的「不当言论」到微信（WeCheck）群，被抓进派出所 Yum Cha（喝茶）。
 
 话不多说，即刻开车，带你翻山涉水，出海买番茄。
 
-
 ## 买番茄
 
-我推荐去 [Just My Socks](https://justmysocks1.net/members/aff.php?aff=1010) 购买番茄。知名菜农 BandwagonHost（搬瓦工）出品，速度快，售后响应及时。但是，为了保险起见，不管是哪一家菜农，我推荐先买一个月的番茄试用一下。毕竟道高一次，魔高一丈，中国的网管可不是吃素的，它们是可怕的食肉动物，对番茄这种水果极其厌恶。
+目前，我从这两家买番茄：
+
+- [Just My Socks](https://justmysocks1.net/members/aff.php?aff=1010)：月付 2.88 USD 的番茄缺货中，预计年底才会补货（目前最低价 5.88 USD）。
+- [flycloud](https://www.flycloud.ws/auth/register?code=Lugd)：价格敏感的用户可以选 flycloud 家的番茄，月付最低只要 ￥5（使用优惠码 `S11` 后只要 ￥4）。
+
+为了保险起见，不管是买哪一家的番茄，我都推荐先买一个月的量试用一下。毕竟道高一次，魔高一丈，中国的网管可不是吃素的（可怕的食肉动物），对番茄这种水果极其厌恶。
+
+### flycloud
+
+5 元套餐的性价比极高，但是有时可能会断连，毕竟一分钱一分货。
+
+**怎么买**
+
+- 用手机或者电脑打开 [flycloud](https://www.flycloud.ws/auth/register?code=Lugd)，注册，登录。
+- `我的钱包` - `充值：5 元以上`
+- `商店` - `按需选择套餐` -  `选择会员时长：推荐 1 个月` - `使用优惠码：S11` - `立即支付`
+
+**如何吃（以 Windows 为例）**
+
+- 下载和教程
+- Windows 使用教程
+- 不会用 Clash，就点击右上角的「其他客户端：SSR」
+- 下面的步骤参考 flycloud 提供的教程
 
 
-### 切换语言
+
+### Just My Socks
+
+知名菜农 BandwagonHost（搬瓦工）出品，速度还不错，售后响应及时。但因为名气太大，月付 2.88 USD 的番茄缺货中，目前只能选择月付 5.88 USD的番茄。
+
+
+
+#### 切换语言
 
 打开 [Just My Socks 的官网](https://justmysocks1.net/members/aff.php?aff=1010)，点击右上角的 `Enhlish`，然后切换网站语言为 `中文`。
 
-### 注册账号
+#### 注册账号
 
 点击 `注册`，输入 Email（电子邮箱）、Country and State（国家和省份默认即可）、和密码，点击 `I'm not a robot` 进行人机身份验证，同意服务条款。注册完成后，最好验证一下邮箱。
 
-
-### 选择套餐
+#### 选择套餐
 
 依次点击 `服务` - `订购新服务`，以套餐 `Just My Socks 100` 为例：
 - 费用：$2.88 / 月
 - 流量：100 GB / 月
 - 设备：最多支持 3 个设备（电脑 + 手机）同时在线
 
-
-### 下单付款
+#### 下单付款
 
 以 `$2.88 USD 月繳` 为例，输入优惠码 `JMS9272283`（每月只要 $2.73）， `检验代码` ，`Checkout`，选择 `Alipay`（支付宝）/ `PayPal`，同意条款，完成订购，扫码支付。
 
+#### 购买成功
 
-### 购买成功
+依次点击 `服务` - `我的服务`，选择刚刚购买的套餐，即可看到刚刚买好的番茄。食用建议如下：
 
-依次点击 `服务` - `我的服务`，选择刚刚购买的套餐，即可看到刚刚买好的番茄。
+- 把 5 个番茄都添加到 Shadowsocks 客户端（参阅「」吃番茄的章节）：这个番茄烂了，试试其他 4 个番茄。
+- Server IP 推荐使用域名格式：`c**s*.jamjams.net`
+
 
 
 ## 吃番茄
 
 在手机或电脑上安装好一个叫小火箭牌（Shadowsocks 客户端）的炒锅，然后把番茄放进去，Ta-da，美味的番茄就做好了。
-
-**Tips**
-- 把 5 个番茄都添加进去：这个番茄烂了，试试其他 4 个番茄。
-- `Server IP` 推荐使用域名格式：`c**s*.jamjams.net`
-
-
-**Note**
-- 如果下文的链接失效，或者下载速度极慢，请在移步 [Shadowsocks 客户端备用下载地址（全平台）](https://justmysocks1.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)。
-- 如果没搞懂下文的食用教程，请移步 [Shadowsocks 客户端使用教程 by Shadowsocks-Wiki](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/README.md)。
-
 
 ### Windows（微软 PC）
 
@@ -118,7 +131,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 **Shadowsocks for Windows**
 - 下载 [Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-windows/releases) 
 - 在非系统盘新建一个名为 `Shadowsocks` 的文件夹，例如 `D:\Program Files\Shadowsocks`，把下载好的安装包剪切到这里，解压，打开 `Shadowsocks.exe` 
-    
+  
     > Windows 7 用户如果无法正常运行 `Shadowsocks.exe`，请下载并安装 [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/thank-you/net472) 后，再尝试打开 `Shadowsocks.exe`
 - 双击桌面右下角任务栏的小飞机，输入 `Server IP`（服务器地址）、`Port`（服务器端口）、`Password`（密码）和 `Encryption`（加密方式），点击 `确定`（**请注意：不要把空格复制进去！**）
 - 再次右键点击小飞机 > `系统代理` > `PAC 模式`（智能分流模式，只代理被屏蔽的网站），即可畅游全球网络
@@ -178,6 +191,14 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 - 备选 [ShadowsocksX-NG.app.zip](https://github.com/shadowsocks/ShadowsocksX-NG/releases) 
 
 
+
+**Note**
+
+- [Shadowsocks 客户端备用下载地址（全平台）](https://justmysocks1.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)。
+- 如果没搞懂下文的食用教程，请移步 [Shadowsocks 客户端使用教程 by Shadowsocks-Wiki](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/README.md)。
+
+
+
 ## 后记
 
 ### 备选菜园
@@ -204,8 +225,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ### 善用 Google
 
-Search before you ask（遇事不明，搜索引擎）。文章写得那么详细，手再伸出来就砍了。若苦寻无果，与我联系，手把手教你越过互联网的藩篱，一起无拘无束地「网上冲浪」。
-
+Search before you ask（遇事不明，搜索引擎）。文章写得那么详细，手再伸出来就砍了。如果暂时无法访问 [Google](https://www.google.com/ncr)，推荐使用 [必应搜索（国际版）](https://cn.bing.com/)。苦寻无果，与我联系，手把手教你越过互联网的藩篱（My mission is to give you freedom）。
 
 ### 与我联系
 

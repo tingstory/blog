@@ -82,10 +82,10 @@ SMTP Port填465
 ### 用 WordPress 搭建
 
 - [获取 WordPress](https://cn.wordpress.org/download/)
-- 主题推荐：enfold（较轻，推荐），the 7，divi（轻便），avada（速度不够，配上个wprocket插件）
-
+- 主题推荐：enfold（较轻，推荐），the 7，divi（轻便），avada（速度不够，配上个wprocket插件），betheme
 
 **插件**
+
 - AMP 类
 - Yoast SEO：Edit Snippest。缩短层级，去掉分类页
 - Contact From 7，是一个提交表单的插件，如果是做B2B网站都是必备的，用来接收询盘
