@@ -17,6 +17,11 @@ permalink: nice-quotes
 
 <!-- more -->
 
+## Inbox
+
+- 赢了会所嫩模，输了下海干活。
+
+
 
 ## 这一生怎么过
 
@@ -182,4 +187,9 @@ permalink: nice-quotes
 
 
 
-- 
+
+
+
+
+
+

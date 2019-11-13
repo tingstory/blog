@@ -2,7 +2,7 @@
 
 title: 番茄食用指南  
 date: 2016-03-03  
-updated: 2019-11-13  
+updated: 2019-11-14  
 
 categories: 
 - 数字生活
@@ -187,8 +187,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ### macOS（苹果电脑）
 
-- 首选 [ClashX.dmg](https://github.com/yichengchen/clashX/releases)
-- 备选 [ShadowsocksX-NG.app.zip](https://github.com/shadowsocks/ShadowsocksX-NG/releases) 
+- [ShadowsocksX-NG.app.zip](https://github.com/shadowsocks/ShadowsocksX-NG/releases) 
 
 
 
@@ -204,8 +203,6 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 ### 备选菜园
 
 如果 [Just My Socks](https://justmysocks1.net/members/aff.php?aff=1010) 不能满足你的要求，可以去这个 [菜市场](https://github.com/387099/SSR/issues/1) 找找。
-
-
 
 再如果在这个 [菜市场](https://github.com/387099/SSR/issues/1) 还是不能买到喜欢的番茄，就买一块地自己 [种番茄](https://tingtalk.me/fq-diy/) 吧。
 

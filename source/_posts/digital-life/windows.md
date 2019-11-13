@@ -2,7 +2,7 @@
 
 title: Windows 电脑：使用技巧、佳软推荐、重装教程  
 date: 2017-12-18  
-updated: 2019-10-26  
+updated: 2019-11-14  
 categories: 数字生活  
 tags: 
 - 数字生活
@@ -14,7 +14,6 @@ permalink: windows
 不得不说，Windows 10 越更新越好用了，也许你没有发现，且听我慢慢道来，跟着我的节奏，释放 Windows 10 的潜力。
 
 <!-- more -->
-
 
 ## Windows 技巧
 
@@ -123,8 +122,7 @@ permalink: windows
 - Typora 原生支持导出 PDF、HTML 等格式。你可以根据软件内的提示安装 Pandoc 插件来导出更多文件格式，例如 Word (.docx)，LaTeX 等格式。 
 - 新版加入了右键 `使用 Google 搜索`，真是妙不可言。
 - `文件` > `偏好设置` > `开启自动保存`
-- [认识与入门 Markdown - 少数派](https://sspai.com/post/25137)
-
+- 关联阅读：[Markdown 入门教程及书写风格指南](https://tingtalk.me/markdown/)
 
 ### [WPS Office](http://wpspro.support.wps.cn/gov/guangdong/huizhou/)
 
@@ -137,7 +135,7 @@ permalink: windows
 
 ### [火绒安全](https://www.huorong.cn/)
 
-- 其实 Windows 10 自带的 `安全中心` 对大部分人来说已经够用，如不放心，就加个 [火绒安全](https://www.huorong.cn/) 吧。强悍、干净、轻巧的火绒可以让你安全、安静、自由地使用电脑（还不赶紧卸载 360 安全卫士、腾讯电脑管和金山毒霸？！）。
+- 其实 Windows 10 自带的 `安全中心` 对大部分人来说已经够用，如不放心，就加个 [火绒安全](https://www.huorong.cn/) 吧。强悍、干净、轻巧的火绒可以让你安全、安静、自由地使用电脑。关注公众号「火绒安全实验室」（WeChat ID：HuorongLab） 你就会知道金山毒霸、360 安全卫士和腾讯电脑管等有多么恶毒。
 - 火绒不会有广告弹窗等任何打扰用户的行为，也不会在安装包中随意捆绑其他软件。同时，火绒反捆绑和弹窗拦截还能帮助您的计算机变得更加干净。
 - 家长控制：帮助家长保护、管教孩子，在孩子使用电脑时对孩子的上网行为进行管控。家长控制功能从上网时段控制、程序执行控制、网站内容控制、设备使用控制四个方面保护孩子。
 
@@ -317,13 +315,17 @@ permalink: windows
 ### 激活 Windows 10
 
 - 右击桌面左下角的开始图标（快捷键 `Win + X`），选择 `Windows PowerShell (管理员)`
+
 - 请粘贴以下代码到 PowerShell 的命令行：
     ```
     slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
     slmgr /skms kms.03k.org
     slmgr /ato
     ```
+    
 - 10 秒钟过后，自动激活成功（注意，此方法具有时效性）
+
+如果上文的方法失效了：
 
 
 > 备选激活方式一：[Windows：从下载到激活盗版 - NoBige-JackCh3n](https://nobige.cn/post/20190729-WindowsOS_cong_xia_zai_dao_ji_huo_dao_ban/)  
@@ -341,5 +343,5 @@ permalink: windows
 如果你有更好用的软荐，欢迎与我取得联系：
 
 - Email：tingtalk.me(at)gmail.com
-- Telegram：https://t.me/tingtalkgroup
+- [Telegram](https://t.me/tingtalkgroup)：https://t.me/tingtalkgroup
 - WeChat：804 976 336
