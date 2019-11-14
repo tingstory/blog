@@ -95,27 +95,87 @@ permalink: windows
 - 点击软件标题，即可跳转到软件的官网
 
 
-### [科学上网](https://tingtalk.me/fq/)
+
+### 必备佳软
+
+
+
+#### [科学上网](https://tingtalk.me/fq/)
 
 - 提升互联网生活质量的第一步是打通全球网络，访问 `tingtalk.me/fq` 开启数字世界的另一扇大门。这个话题，言多必失，点到即止。
 
 
-### [Chrome](https://www.google.cn/chrome/)
+
+#### [Chrome](https://www.google.cn/chrome/)
 
 - Google Chrome（谷歌浏览器）作为全球 65.64% 用户的选择，你应该成为其中的一员（2019 年 4 月）。
 - 你可以从超过 15 万款 Chrome 扩展程序中随心选择，按照自己的喜好扩展浏览器功能（Chrome 最强大的地方）。
 - 开启同步功能（登陆 Google 账号）后，Chrome 便会在你的笔记本电脑、平板电脑和手机上自动同步您的最新活动状态（例如扩展程序、书签、历史记录、密码和其他设置）。这样，无论身在何处，都能在自己的设备上享受一致的体验。
+- 更多玩法，参阅 [Chrome 插件（扩展程序） 清单 - 庭说](https://tingtalk.me/chrome/)
 
 
-### [有道云笔记](https://note.youdao.com/)
 
-- 学海无涯，书山有道。随时随地记录你的灵感，搭建属于你的知识体系。
-- 多端同步（PC 端、移动端和网页端）随时查看，无惧断电困扰。
-- 兼容 Office、PDF 等办公常用文档，无需下载即可查看编辑。
-- 支持微信、微博、链接收藏和网页剪报等多种形式，优秀内容一键保存永不丢失。
-- ❗ 但 Markdown 模式真的太丑太难用了。卡顿、没有大纲、不支持快捷键、非所见即所得，麻烦产品经理向 Typora 学习一下。所以目前我还没有在 Windows 平台上找到一款完美支持 Markdown 的云笔记软件，头疼。
+### 系统工具
 
-### [Typora](https://typora.io/)
+
+
+#### [火绒安全](https://www.huorong.cn/)
+
+- 其实 Windows 10 自带的 `安全中心` 对大部分人来说已经够用，如不放心，就加个 [火绒安全](https://www.huorong.cn/) 吧。强悍、干净、轻巧的火绒可以让你安全、安静、自由地使用电脑。关注公众号「火绒安全实验室」（WeChat ID：HuorongLab） 你就会知道金山毒霸、360 安全卫士和腾讯电脑管等有多么恶毒。
+- 火绒不会有广告弹窗等任何打扰用户的行为，也不会在安装包中随意捆绑其他软件。同时，火绒反捆绑和弹窗拦截还能帮助您的计算机变得更加干净。
+- 家长控制：帮助家长保护、管教孩子，在孩子使用电脑时对孩子的上网行为进行管控。家长控制功能从上网时段控制、程序执行控制、网站内容控制、设备使用控制四个方面保护孩子。
+
+
+
+#### [Bandizip](https://cn.bandisoft.com/bandizip/) 
+
+- 轻巧、快速、免费、好看的解压缩软件。
+- 最喜欢它的「自动解压」功能：不用再担心解压出一堆散乱文件或双层文件夹。
+- 关联阅读：[Bandizip | 也许是全球第二好用的压缩软件](https://www.xjcbt.com/bandizip.html)（为什么叫「第二好用」的压缩软件呢？因为每个人都有自己的的习惯，自己喜欢的才是最好用的。）
+
+
+
+#### [Geek Uninstaller](https://geekuninstaller.com/)
+
+- 小巧（6 MB ）、绿色（无需安装）、易用（单文件）的卸载工具。
+- 卸载完成，Geek Uninstaller 会自动扫描残留的文件（夹）和注册表项目。
+
+
+
+#### [360 驱动大师网卡版](http://weishi.360.cn/qudongdashi/index.html)
+
+- 虽然很不想用 360 的产品，但是，无奈其他驱动管理软件都太流氓。
+
+
+
+### 即时通讯
+
+#### [微信](https://pc.weixin.qq.com/) 
+
+- 超过十亿人使用的应用，难用也得用。
+- 有生之年，希望能看到微信向 [Telegram](https://telegram.org/) 靠拢。
+
+#### [TIM](https://tim.qq.com/)
+
+- QQ 办公简洁版，界面清爽，支持在线编辑 Word 和 Excel，提供 10G 云盘。
+- 缺少群视频功能（有主持人控场的那种）。
+
+#### [Telegram](https://desktop.telegram.org/)
+
+目前最好用的即时通讯软件。使用方法如下：
+
+- 下载  [Telegram Desktop](https://desktop.telegram.org/) 并安装
+
+- 打开软件，设置代理（Proxy settings），以下以 Shadowsocks(R) 为例
+	- SOCKS5
+	- Hostname: `127.0.0.1`
+	- Port: `1080`（Shadowsocks(R) 客户端的默认本地端口）
+
+
+
+### 文档处理
+
+#### [Typora](https://typora.io/)
 
 - 使用 Typora（谐音：太婆热）这款所见即所得（What You See Is What You Get）的 Markdown 编辑器，你会感觉自己的双手有了魔法一般，一敲一击，美好的文字皆优雅地排列在屏幕上，让人觉得舒服自然。相信我，通过它，你会找到写作的乐趣。
 - 复制 Word 和 Excel 中的表格，Typora 会智能转换成 Markdown 格式的表格（Markdown 是轻量化标记语言，所以不支持合并 / 拆分单元格）。
@@ -124,7 +184,9 @@ permalink: windows
 - `文件` > `偏好设置` > `开启自动保存`
 - 关联阅读：[Markdown 入门教程及书写风格指南](https://tingtalk.me/markdown/)
 
-### [WPS Office](http://wpspro.support.wps.cn/gov/guangdong/huizhou/)
+
+
+#### [WPS Office](http://wpspro.support.wps.cn/gov/guangdong/huizhou/)
 
 - Markdown 是非常优秀的写作语言，但并不是人人都知道，所以电脑得备一个 Office 软件打开 Word、Excel 和 PowerPoint，这里推荐 WPS 的党政机关版，干净清爽，无广告困扰，并且支持阅读 PDF。
 - 如果你不喜欢 WPS Office，也不想去折腾 Microsoft Office，可以试试 [腾讯文档](https://docs.qq.com/)：
@@ -133,50 +195,72 @@ permalink: windows
 	- 多人实时编辑文档，权限安全可控。
 	- ❗ 但 Markdown 模式真的太丑太难用了。
 
-### [火绒安全](https://www.huorong.cn/)
 
-- 其实 Windows 10 自带的 `安全中心` 对大部分人来说已经够用，如不放心，就加个 [火绒安全](https://www.huorong.cn/) 吧。强悍、干净、轻巧的火绒可以让你安全、安静、自由地使用电脑。关注公众号「火绒安全实验室」（WeChat ID：HuorongLab） 你就会知道金山毒霸、360 安全卫士和腾讯电脑管等有多么恶毒。
-- 火绒不会有广告弹窗等任何打扰用户的行为，也不会在安装包中随意捆绑其他软件。同时，火绒反捆绑和弹窗拦截还能帮助您的计算机变得更加干净。
-- 家长控制：帮助家长保护、管教孩子，在孩子使用电脑时对孩子的上网行为进行管控。家长控制功能从上网时段控制、程序执行控制、网站内容控制、设备使用控制四个方面保护孩子。
 
-### [Snipaste](https://zh.snipaste.com/)
+#### [Adobe Acrobat](https://acrobat.adobe.com/cn/zh-Hans/acrobat.html)
+
+- 如果不需要修改 PDF 的内容，[Acrobat Reader](https://acrobat.adobe.com/cn/zh-Hans/acrobat/pdf-reader.html)、[Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader.html)、Google Chrome（谷歌浏览器）、Microsoft Edge（ Windows 10 自带浏览器）和 WPS Office 都可以满足你的要求。
+- 但当您需要编辑 PDF 的时候，Acrobat Pro（$359 / 年，但是你懂的）就是您最佳的 PDF 解决方案，毕竟，PDF 是由 Adobe 1991 年发明的。
+
+
+
+#### [有道云笔记](https://note.youdao.com/)
+
+- 学海无涯，书山有道。随时随地记录你的灵感，搭建属于你的知识体系。
+- 多端同步（PC 端、移动端和网页端）随时查看，无惧断电困扰。
+- 兼容 Office、PDF 等办公常用文档，无需下载即可查看编辑。
+- 支持微信、微博、链接收藏和网页剪报等多种形式，优秀内容一键保存永不丢失。
+- ❗ 但 Markdown 模式真的太丑太难用了。卡顿、没有大纲、不支持快捷键、非所见即所得，麻烦产品经理向 Typora 学习一下。
+- 弃用中，正在迁往 Typora（Windows）+ 坚果云Markdown（Android）
+
+
+
+#### 微软拼音
+
+- 自带的输入法已经足够好用，国产的输入法有关不完的广告弹窗。
+
+
+
+### 图片处理
+
+#### [Snipaste](https://zh.snipaste.com/)
 
 - 在 Windows 10 中，按下 `Win + Shift + S`，然后拖动光标选择想要捕获的区域，即可完成部分屏幕截图。但想要获得更出色的截图体验，少不了 Snipaste（`Snip + Paste` 截图 + 贴图）这款效率工具。
 - 对于经常写报告，写文章的人来说，开启双屏工作模式，工作效率可大大提高。原因很简单，看参考资料时，不必频繁在不同窗口之间切换。事实上，并不是很多人拥有两个屏幕。很多时候只能在一个屏幕上不停地调整两个窗口，一边码字，一边看参考资料。Snipaste 应运而生，下载（免安装）并打开 Snipaste，按下 `F1` 截图，再按 `F3`，截图就在桌面置顶显示了（重启电脑后，贴图依旧在）。就这么简单！
 - 更多使用技巧参考 [Snipaste 用户指南](https://docs.snipaste.com/zh-cn/)。
 
-### [微信](https://pc.weixin.qq.com/) 
-
-- 超过十亿人使用的应用，难用也得用。
-- 有生之年，希望能看到微信向 [Telegram](https://telegram.org/) 靠拢。
-
-### [TIM](https://tim.qq.com/)
-
-- QQ 办公简洁版，界面清爽，支持在线编辑 Word 和 Excel，提供 10G 云盘。
-- 缺少群视频功能（有主持人控场的那种）。
 
 
+#### [ShareX](https://getsharex.com/)
+
+- 为截图自动加阴影，添加文字或者图片水印。
+- 丰富的图像编辑器。
+- 截图上传至图床。
+
+> [一个软件，满足你所有的截图需求：ShareX - 少数派](https://sspai.com/post/43937)
 
 
-### [QQ 影音](https://player.qq.com/)
 
-- QQ 影音是腾讯为数不多的精品软件（口号是纯净的本地播放器）。当大家以为腾讯要放弃这个产品了居然更新了。
-- 除了 QQ 影音，你的另一个选择是 [PotPlayer](https://potplayer.daum.net/)：轻巧无广告，流畅不卡顿，强大而低调。详见 AppSo 的报道：[PotPlayer：Windows 看片神器，用了它我再也没用过别的播放器](https://www.ifanr.com/app/883744)。官网已无法正常访问（它只是一个单纯的本地视频播放器，它犯什么错了？！），所以需要你具备 [科学上网](https://tingtalk.me/fq/) 的能力。
+#### [Microsoft Whiteboard](https://products.office.com/zh-cn/microsoft-whiteboard/)
+
+一块自由形态数字画布。
+
+**优点**
+
+- 可导出 PNG 和 SVG。
+- 提供 CC0 免费图库。
+- 将墨迹转换为形状：目前支持正方形、矩形、三角形、圆、六边形、五边形和平行四边形。
+- 双击查看整个白板（鸟瞰图）。更多用法参考 [Microsoft Whiteboard 帮助](https://support.office.com/zh-cn/article/microsoft-whiteboard-%E5%B8%AE%E5%8A%A9-d236aef8-fcdf-4b5e-b5d7-7f157461e920)
 
 
-### [百度网盘](https://yun.baidu.com/)
+**不足**
 
-- 2012 年 9 月百度推出「百度云」。2016 年 10 月 11 日，百度云（Baidu Cloud）改名为百度网盘。
-- 在国内大容量免费网盘相继「去世」的困境下，不知道百度网盘还能挺多久，虽然下载会限速。
-- ❗ 鸡蛋不要放在同一个篮子里，重要的数据还是乖乖地做好多个备份吧。
+- 目前仅支持 Windows 10 和 iOS。
+- 需登录 [Microsoft 帐户](https://account.microsoft.com)，登陆之后自动保存，顺畅继续。
 
-### [Bandizip](https://cn.bandisoft.com/bandizip/) 
 
-- 轻巧、快速、免费、好看的解压缩软件。
-- 最喜欢它的「自动解压」功能：不用再担心解压出一堆散乱文件或双层文件夹。
-- 关联阅读：[Bandizip | 也许是全球第二好用的压缩软件](https://www.xjcbt.com/bandizip.html)（为什么叫「第二好用」的压缩软件呢？因为每个人都有自己的的习惯，自己喜欢的才是最好用的。）
 
-### [Honeyview](https://cn.bandisoft.com/honeyview/)
+#### [Honeyview](https://cn.bandisoft.com/honeyview/)
 
 - 用不惯 Windows 10 自带的照片查看器，试试 `蜂蜜浏览器`
 - 几乎支持所有的图片格式: BMP, JPG, GIF, PNG, WebP, **PSD**, **Raw 图片格式**……
@@ -185,51 +269,22 @@ permalink: windows
 
 
 
-### [Geek Uninstaller](https://geekuninstaller.com/)
-
-- 小巧（6 MB ）、绿色（无需安装）、易用（单文件）的卸载工具。
-- 卸载完成，Geek Uninstaller 会自动扫描残留的文件（夹）和注册表项目。
-
-### [Adobe Acrobat](https://acrobat.adobe.com/cn/zh-Hans/acrobat.html)
-
-- 如果不需要修改 PDF 的内容，[Acrobat Reader](https://acrobat.adobe.com/cn/zh-Hans/acrobat/pdf-reader.html)、[Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader.html)、Google Chrome（谷歌浏览器）、Microsoft Edge（ Windows 10 自带浏览器）和 WPS Office 都可以满足你的要求。
-- 但当您需要编辑 PDF 的时候，Acrobat Pro（$359 / 年，但是你懂的）就是您最佳的 PDF 解决方案，毕竟，PDF 是由 Adobe 1991 年发明的。
-
-
-### [TeamViewer](https://www.teamviewer.cn/cn/) 
-
-**下班回到家，老板却不给你休息怎么办？**
-1. 在单位和个人的电脑下载并安装 [TeamViewer](https://www.teamviewer.cn/cn/) （个人免费）
-2. 注册账号，并设为开机自启（私人设备可不自启）
-3. 下班后，公司的电脑不要关机
-4. 等待老板分配临时任务给你
-5. 用「手机 / 私人电脑」远程控制公司的电脑桌面
-6. 披星戴月，完成任务。Tomorrow is another day
-
-
-**Note**
-- [TeamViewer](https://www.teamviewer.cn/cn/) 有时会被检测为商用，[向日葵](https://sunlogin.oray.com/personal/) 可以作为你的备选远程桌面软件（向日葵跟着月亮转，好似月光下的你跟着老板转）
-
-
-### [智图](https://zhitu.isux.us/)
+#### [智图](https://zhitu.isux.us/)
 
 - （批量）图片压缩和图片格式转换。
 - 安装之前，请阅读 [安装指引](https://zhitu.isux.us/index.php/preview/install) 。
 
 
-### [LICEcap](https://www.cockos.com/licecap/)
+
+#### [LICEcap](https://www.cockos.com/licecap/)
 
 - 免费开源的 GIF 录屏工具，支持 macOS 和 Windows 平台。
 - 如果 LICEcap 不能满足你的要求，试试 [ScreenToGif](https://www.screentogif.com/)，不过录制出来的 GIF 体积偏大。
 - [ezGIF](https://ezgif.com/)：免费的在线压缩工具。
 
-### [360 驱动大师网卡版](http://weishi.360.cn/qudongdashi/index.html)
-
-- 虽然很不想用 360 的产品，但是，无奈其他驱动管理软件都太流氓。
 
 
-
-### [Google Photos](https://photos.google.com/apps) 
+#### [Google Photos](https://photos.google.com/apps) 
 
 - **无限空间**：在高画质上传模式下，Google 相册享有无限免费存储空间（目前我上传了接近 80GB 的相片和视频），文件缩小，画质几乎不减。
 - **面容识别**：按相似的面孔将亲朋好友（或宠物）的照片分门别类（如何快速寻找亲友 10 年前的相片，这是我能想到最快的方式）。
@@ -239,37 +294,43 @@ permalink: windows
 - **批量导出**：借助 [Google Takeout](https://takeout.google.com/)，你可以导出所有的相片（QQ 空间相册似乎没有这个批量导出的功能）。
 
 
-### [Microsoft Whiteboard](https://products.office.com/zh-cn/microsoft-whiteboard/)
 
-一块自由形态数字画布。
-
-**优点**
-- 可导出 PNG 和 SVG。
-- 提供 CC0 免费图库。
-- 将墨迹转换为形状：目前支持正方形、矩形、三角形、圆、六边形、五边形和平行四边形。
-- 双击查看整个白板（鸟瞰图）。更多用法参考 [Microsoft Whiteboard 帮助](https://support.office.com/zh-cn/article/microsoft-whiteboard-%E5%B8%AE%E5%8A%A9-d236aef8-fcdf-4b5e-b5d7-7f157461e920)
+### 其他软件
 
 
-**不足**
-- 目前仅支持 Windows 10 和 iOS。
-- 需登录 [Microsoft 帐户](https://account.microsoft.com)，登陆之后自动保存，顺畅继续。
+#### [QQ 影音](https://player.qq.com/)
 
-
-### 便笺（jiān）
-
-- 启动方式
-    - 方法一：在开始菜单找到 `便笺`
-    - 方法二：`Win + S` 搜索 `Sticky Notes`
-- 缺点
-    - 不能设置便签「总在最前」
-    - 不能最小化到桌面右下角
-- 优点：登陆微软账号，可云同步
+- QQ 影音是腾讯为数不多的精品软件（口号是纯净的本地播放器）。当大家以为腾讯要放弃这个产品了居然更新了。
+- 除了 QQ 影音，你的另一个选择是 [PotPlayer](https://potplayer.daum.net/)：轻巧无广告，流畅不卡顿，强大而低调。详见 AppSo 的报道：[PotPlayer：Windows 看片神器，用了它我再也没用过别的播放器](https://www.ifanr.com/app/883744)。官网已无法正常访问（它只是一个单纯的本地视频播放器，它犯什么错了？！），所以需要你具备 [科学上网](https://tingtalk.me/fq/) 的能力。
 
 
 
-### 微软拼音
 
-- 自带的输入法已经足够好用，国产的输入法有关不完的广告弹窗。
+#### [百度网盘](https://yun.baidu.com/)
+
+- 2012 年 9 月百度推出「百度云」。2016 年 10 月 11 日，百度云（Baidu Cloud）改名为百度网盘。
+- 在国内大容量免费网盘相继「去世」的困境下，不知道百度网盘还能挺多久，虽然下载会限速。
+- ❗ 鸡蛋不要放在同一个篮子里，重要的数据还是乖乖地做好多个备份吧。
+
+
+
+#### [TeamViewer](https://www.teamviewer.cn/cn/) 
+
+**下班回到家，老板却不给你休息怎么办？**
+
+1. 在单位和个人的电脑下载并安装 [TeamViewer](https://www.teamviewer.cn/cn/) （个人免费）
+2. 注册账号，并设为开机自启（私人设备可不自启）
+3. 下班后，公司的电脑不要关机
+4. 等待老板分配临时任务给你
+5. 用「手机 / 私人电脑」远程控制公司的电脑桌面
+6. 披星戴月，完成任务。Tomorrow is another day
+
+
+**Note**
+
+- [TeamViewer](https://www.teamviewer.cn/cn/) 有时会被检测为商用，[向日葵](https://sunlogin.oray.com/personal/) 可以作为你的备选远程桌面软件（向日葵跟着月亮转，好似月光下的你跟着老板转）
+
+
 
 
 

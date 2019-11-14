@@ -2,7 +2,7 @@
 
 title: 搜索技巧  
 date: 2019-03-11  
-updated: 2019-11-13  
+updated: 2019-11-14  
 categories: 数字生活  
 
 tags: 
@@ -21,18 +21,24 @@ permalink: search-tips
 
 ## 谷歌搜索
 
-1. 能 [科学上网](https://tingtalk.me/fq)，首推 [Google](https://www.google.com/ncr/)
-2. 不能科学上网，用 [Bing 国际版](https://cn.bing.com/)
-3. 都不能满足，试试
-	- [夸克 App](https://www.myquark.cn/)：无广告，排版舒适
-	- [简单搜索 App](http://www.searchcraft.cn/)：无广告的 Baidu
+能 [科学上网](https://tingtalk.me/fq)，首推 [Google](https://www.google.com/ncr/)。否则，用 [Bing 国际版](https://cn.bing.com/)。都找不到答案，试试
+
+- [知乎 by 搜狗](https://zhihu.sogou.com/)：zhihu.sogou.com
+- 微信搜索
+	- 在 App 内搜索：直接打开微信 App，点击右上角的放大镜 🔍。
+	- [搜狗微信搜索](https://weixin.sogou.com/)：订阅号及文章内容独家收录。网址： weixin.sogou.com
+
+- [Magi](https://www.peak-labs.com/docs/zh/magi/intro)：由 [Peak Labs](https://www.peak-labs.com/) 研发的基于机器学习的信息抽取和检索系统，它能将任何领域的自然语言文本中的知识提取成结构化的数据，通过终身学习持续聚合和纠错，进而为人类用户和其他人工智能提供**可解析**、**可检索**、**可溯源**的知识体系。
+- [Wolfram Alpha](https://www.wolframalpha.com/)：直接向用户返回答案，而不是像传统搜寻引擎一样提供一系列可能含有用户所需答案的相关网页。
+- [夸克 App](https://www.myquark.cn/)：无广告，排版舒适
+- [简单搜索 App](http://www.searchcraft.cn/)：无广告的 Baidu
 
 
 
 **请注意**
 
 - 英文的大小写不影响搜索结果：搜索 `TingTalk` 与 `tingtalk` 所得到的结果是一样的。
-- 以下的搜索技巧有些一样适用于国内的搜索引擎。
+- 以下的 Google 搜索技巧有些大部分也适用于国内的搜索引擎。
 - 假设 Baidu 和 Google 之间差了 1024 个 Bing，如果学会以下 Tips，少说得再加 1024 个 Bing（搜索效率翻番）。
 
 
@@ -121,22 +127,6 @@ permalink: search-tips
 
 
 
-## 微信搜索
-
-在 Google 找不到答案，试试在微信搜搜看。
-
-### 在 App 内搜索
-
-直接打开微信 App，点击右上角的放大镜 🔍。
-
-
-
-### [搜狗微信搜索](https://weixin.sogou.com/)
-
-订阅号及文章内容独家收录。网址： weixin.sogou.com
-
-
-
 ## 医疗搜索
 
 身体上的问题，可以问 [丁香医生](https://dxy.com/)。
@@ -190,17 +180,15 @@ permalink: search-tips
 
 
 
-## 其他搜索
+## 其他搜索引擎
 
 数字生活：
 - AppSo：微信公众号 ID：appsolution
 - [Topbook](https://topbook.cc/overview)：高效生活视频书。
 - [少数派](https://sspai.com/)：高效工作，品质生活。
 
----
 
 
-- [Magi](https://www.peak-labs.com/docs/zh/magi/intro)：由 [Peak Labs](https://www.peak-labs.com/) 研发的基于机器学习的信息抽取和检索系统，它能将任何领域的自然语言文本中的知识提取成结构化的数据，通过终身学习持续聚合和纠错，进而为人类用户和其他人工智能提供**可解析**、**可检索**、**可溯源**的知识体系。
-- [Wolfram Alpha](https://www.wolframalpha.com/)：直接向用户返回答案，而不是像传统搜寻引擎一样提供一系列可能含有用户所需答案的相关网页。
+
 - [邮编查询](http://cpdc.chinapost.com.cn/web/)：cpdc.chinapost.com.cn/web
 

@@ -59,6 +59,9 @@ https://www.hellobar.com/
 
 - [Landing Pages](https://www.brizy.cloud/)
 
+方法：替换后面的电话号码，记得加国际电话区号：
+https://api.whatsapp.com/send?phone=`8615610241024`
+
 
 ## 参考网站
 

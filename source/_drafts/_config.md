@@ -136,13 +136,12 @@ tag_map:
   Dropshipping: dropshipping
   e 邮宝: epacket
   eBay: ebay
+  Google: google
+  Google Cloud Platform: gcp
   Hexo: hexo
   Illustrator: illustrator
   InDesign: indesign
   Inkscape: inkscape
-  Google: google
-  Google Cloud Platform: gcp
-  Windows: windows
   Markdown: markdown
   Python: python
   Photoshop: photoshop
@@ -150,6 +149,7 @@ tag_map:
   PPT: ppt
   Shadowsocks: shadowsocks
   SwitchyOmega: switchyomega
+  Windows: windows
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
