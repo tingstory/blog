@@ -2,7 +2,7 @@
 
 title: WhatsApp：解封 & 最小化
 date: 2019-11-14    
-updated: 2019-11-14  
+updated: 2019-11-15  
 categories: 外贸     
 tags: 外贸  
 permalink: whatsapp
@@ -12,7 +12,6 @@ permalink: whatsapp
 WhatsApp 是 Facebook 公司的旗下一款用于智能手机的跨平台加密即时通信应用程序。
 
 <!-- more -->
-
 
 ## 如何解封
 
@@ -94,10 +93,8 @@ Tim
 ## 快速发起对话
 
 - 好处：无需保存联系人到通讯录也能发信息给 Ta。
-
 - 方法：替换后面的电话号码，记得加国际电话区号：
-  https://api.whatsapp.com/send?phone=`8615610241024`
-
+  `https://api.whatsapp.com/send?phone=8615610241024`
 
 
 ## 最小化客户端（Windows）

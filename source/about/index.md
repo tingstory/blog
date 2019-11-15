@@ -9,13 +9,11 @@ quicklink: true
 
 人生的意义不在于你过了多少日子，而在于你记得多少日子。而博客是一个绝佳的记录载体，我可以这个精神角落，自由地表达想说的话。
 
-
 ## Who Am I
 
 - [我是谁？](https://tingtalk.me/tim/)
 - [每天在想什么？](https://tingtalk.me/whisper/)
 - [为什么创立庭说？](https://tingtalk.me/brand/)
-
 
 ## What I Love
 
@@ -23,7 +21,7 @@ quicklink: true
 - 帮过一些网友远程重装 [Windows](https://tingtalk.me/windows/) 系统，并总结了一些 [数字生活的小技巧](https://tingtalk.me/digital-life-tips/)。
 - 按照这个 [Hexo 教程](https://easyhexo.com/)，你也可以在半个小时内搭建一个和我一模一样的 [博客](https://tingtalk.me/categories/website/hexo/)。
 - 追求优雅的 [排版](https://tingtalk.me/typography/) 并自豪的采用 [Markdown](https://tingtalk.me/markdown/) 进行 [写作](https://tingtalk.me/categories/others/mandarin/)。
-- 纸上谈兵的 Loser，喜欢写东西，但没有执行力。
+- 纸上谈兵的 Loser，喜欢 [写东西](https://tingtalk.me/composition-seven-tips/)，但没有执行力。
 - 入门过 [平面设计](https://tingtalk.me/categories/design/)，能熟练换 Logo。
 - 喜欢 [手机摄影](https://tingtalk.me/photography/)，但反感过度美颜。
 - [海贼王（One Piece）](https://tingtalk.me/one-piece-english/) 十年铁杆粉（只看动漫）。
@@ -43,7 +41,7 @@ quicklink: true
 - 前路迷茫之下，我只好回到大学专业（智能电网信息工程）的怀抱，陆续在 [Friendcom](http://www.friendcom.com/) 和 [CLOU](https://www.szclou.com/) 呆过，岗位是电能表测试工程师，但我害怕自己一辈子只能跟用电信息采集设备打交道，于是开启了新的求职之旅。
 - 2019 年 3 月，为了还清贷款，草草地加入了一家创业公司（手机防水袋工厂）。在订单碎片化的大潮下，作为一个 [外贸](https://tingtalk.me/categories/foreign-trade/) 业务员，没有突出的业绩，一直拿着四千多的底薪。但是，我帮助了不少外贸人 [翻越围墙](https://tingtalk.me/fq/)，出海做生意。助人为乐，让我找到一些自己存在的意义。
 - 我有勃起的好奇心和旺盛的学习欲望，但是不知道下一站该往哪里走？目前的规划是搭建一个 [独立站](https://tingtalk.me/dropshipping-website/)，但还没想好 [选品](https://tingtalk.me/find-dropshipping-products/)。
-- 欢迎引荐相关的工作机会（例如科技互联网或外贸），你可以在文末找到我的联系方式（目前现居地：深圳）。
+- 欢迎引荐相关的工作机会（例如科技互联网或外贸），你可以在文末找到我的联系方式（现居地：深圳）。
 
 
 ## Contact

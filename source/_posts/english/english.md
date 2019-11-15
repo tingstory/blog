@@ -2,13 +2,9 @@
 
 title: 庭勃士的英语杂货铺   
 date: 2019-07-14  
-updated: 2019-11-12  
-categories: 
-- 英语
-
-tags:
-- 英语
-
+updated: 2019-11-15  
+categories: 英语  
+tags: 英语  
 permalink: english  
 
 ---
@@ -194,7 +190,7 @@ Keep talking.
 
 ## F
 
-### `Feature` vs `Function`
+### Feature vs Function
 
 - `Feature`：What's the difference? (特点、特征)
 - `Function`：What's this? (功能、用途)
@@ -212,6 +208,26 @@ Keep talking.
 
 
 
+### Food
+
+- Rice vinegar  
+  醋
+- Ginger  
+  生姜
+- Hairy crab  
+  大闸蟹 
+- Comfort food  
+  安慰食品（通常令人愉悦但并不健康的）
+- Dipping sauce  
+  蘸酱；沾料
+- Food that reminds you of home. 
+  唤起家乡回忆的食物
+- Taste buds get duller.  
+  味蕾变迟钝。
+- Get your hands dirty.  
+  把手弄脏。
+- Extra ingredients will corrupt the flavor.
+  多余的调料会破坏食物本来的风味。
 
 
 ### Forgot
@@ -280,7 +296,7 @@ You make my day!
 
 - Holidays are for everyone.
 - Vacation involves traveling.
-- Staycation: stay at home 的 vacation
+- Staycation: stay at home 的 vacation.
 
 
 
