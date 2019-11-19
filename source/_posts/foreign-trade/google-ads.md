@@ -2,7 +2,7 @@
 
 title: Google Ads 新手教程  
 date: 2019-11-14  
-updated: 2019-11-14  
+updated: 2019-11-20  
 categories: 外贸
 tags: 外贸
 permalink: google-ads 
@@ -27,6 +27,23 @@ permalink: google-ads
   - Email Address
   - Talk About Your Needs
 - 回询盘的速度快
+
+## 关键词调研
+
+哪里找：
+
+- Google 搜索下拉联想词
+- Google Ads 的关键字规划师
+  - 用大词去搜
+  - 英语
+  - 所有位置
+- [AnswerThePublic](https://answerthepublic.com/)
+- [KWFinder](https://kwfinder.com/)
+- B2B 平台：alibaba.com
+- LinkedIn
+- 竞争对手的网站：Google 搜索 `关键词 -site:alibaba.com -site:made-in-china`
+
+
 
 ## 搭建独立站
 
@@ -141,8 +158,8 @@ permalink: google-ads
 
 **预算和出价**
 
-- 直接选择出价策略：`每次点击费用人工出价`（新手），勾选 `借助智能点击付费获得更多转化`
-
+- 前期（至少 2 个月）选择自动出价策略积累数据：`尽可能争取更多点击次数`
+- 后期人工出价策略：`每次点击费用人工出价`（新手），并勾选 `借助智能点击付费获得更多转化`
 - 广告投放时间
   - 日期：`星期一到星期五`（B2B 选择工作日）
   - 时间
@@ -154,7 +171,7 @@ permalink: google-ads
 
 
 
-**广告附加信息**
+**广告附加信息（B2B）**
 
 - 附加链接
 - 附加宣传信息
@@ -166,8 +183,29 @@ permalink: google-ads
 ### 广告组（Ad Groups）
 
 - 广告组类型：`标准`
-- 广告组名称：（用于区分不同的关键词）
+- 广告组名称（用于区分不同的关键词）：序号-关键词-落地页
 - 默认出价
+
+
+
+**关键词匹配类型**
+
+- 广泛匹配（中后期）
+- 广泛修饰符
+  - `+black phone case`：必须出现 black 才会触发广告
+  - `+tomatoes + factories - potatoes`
+  - 适用于中后期
+  - 只能用于广泛匹配类型
+  - 可以使用 [Google Ads Editor](https://ads.google.com/intl/zh-CN_cn/home/tools/ads-editor/) 批量修改关键词
+- 词组匹配：出低价，添加否定搜索词（至广告系列）
+  - 如果用户在您关键字的中间插入了其他字词，您的广告就不会展示
+  - 示例关键字："女帽" - 性价比
+  - 示例搜索：蓝色女帽、买女帽、促销女帽
+- 完全匹配
+  - [keywords]
+  - 出高价，选择精确的长尾关键词，抢占前排
+
+
 
 ### 广告（Ads）
 

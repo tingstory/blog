@@ -2,7 +2,7 @@
 
 title: 美区 Apple ID 注册指南  
 date: 2019-05-15  
-updated: 2019-10-31  
+updated: 2019-11-19  
 categories: [数字生活, 科学上网]  
 tags:
 - 数字生活
@@ -12,17 +12,18 @@ permalink: us-apple-id
 
 ---
 
-当你在中国区的 App Store 找不到想要的 app 时，才会知道美区 Apple ID 的可贵。
+当你在中国区的 App Store 找不到想要的 app 时，例如 Skype、‎Shadowrocket、Quantumult 和 Surge 等，才会知道美区 Apple ID 的可贵。
 
 <!-- more -->
 
 
 ## 准备工作
 
-- 1 个 [美国 IP](https://tingtalk.me/fq/)
-- 1 个 Email
-- 借助 [地址生成器](https://www.fakeaddressgenerator.com/World/us_address_generator) 获得美国地址，优选免税州（State）：Delaware / Montana / New Hampshire / Oregon
-- 1 台安装了 [iTunes](https://www.apple.com/itunes/) 的 Windows 电脑（或 1 个可以科学上网的苹果设备）：开启全局代理模式，并 [测试](https://whoer.net/zh) IP 归属地是否为美国
+- 伪装成美国人
+	- 1 个 [美国 IP](https://tingtalk.me/fq/)
+	- 借助 [地址生成器](https://www.fakeaddressgenerator.com/World/us_address_generator) 获得美国地址，优选免税州（State）：Delaware / Montana / New Hampshire / Oregon
+- 1 个未注册过 Apple ID 的 email
+- 1 台安装了 [iTunes](https://www.apple.com/itunes/) 的 Windows 电脑（或 1 个可以科学上网的 iPhone、iPad 或者 MacBook，这时就会陷入先有鸡还有先有蛋的问题）：开启全局代理模式，并 [测试](https://whoer.net/zh) IP 归属地是否为美国
 
 
 ## 注册步骤
@@ -31,7 +32,7 @@ permalink: us-apple-id
 
 ### 创建 Apple ID
 
-- `电子邮件`：笔者在 2019-05-15 用 QQ 邮箱注册成功，但为了提高成功率，最好使用国外的 Email，例如 [Outlook](https://outlook.live.com)（不用梯子）、Gmail（需要梯子）
+- `电子邮件`：虽然用 QQ 邮箱或网易邮箱注册成功，但为了提高成功率，最好使用国外的 Email，例如 [Outlook](https://outlook.live.com)（不用梯子）、[Gmail](https://mail.google.com/)（需要梯子）
 - `密码`：8 个字符以上，包含数字，大写字母和小写字母
 - `国家/地区`：美国（United States），然后界面语言会自动切换成英文
 - `Continue`（下一步）
@@ -64,20 +65,20 @@ permalink: us-apple-id
 
 ### 完成注册
 
-- **最后一定要记得点 `Continue`**，不然功亏一篑！（全文唯一的感叹号）
+- **最后一定要记得点 `Continue`**，不然功亏一篑！
 - 然后将代理软件切换回智能分流模式（PAC）
 
 
 ## 如果失败
 
-- 官网联系 [Apple 客服](https://getsupport.apple.com/?caller=cups)
-- 选择 `立即与 Apple 支持部门人员通话。`，2 分钟之内就会接到客服电话，然后如实回答即可
+1. 官网联系 [Apple 客服](https://getsupport.apple.com/?caller=cups)
+2. 选择 `立即与 Apple 支持部门人员通话。`，2 分钟之内就会接到客服电话，然后如实回答即可
 
 > 如果你的支付方式里没有 “无” 这个选项，不要惊慌，可能是苹果通过网络环境判断你不在美国。你可以拨打大陆地区的 Apple 服务热线，找人工客服阐述你遇到的问题 —— 注册美区账号无法成功绑定支付方式，他们会非常热情地配合你解决问题，并由专员在后台进行操作，让你的支付方式里有 “无” 这一选项。当然如果你事先准备了美国的云梯，顺利的话是会有 “无” 的，没有也没关系。by [iRex](https://sspai.com/post/53973)
 
 
 ## 下载 App
 
-- 打开 App Store（应用商店），切换到刚刚注册好的 Apple ID（不是切换设置里 Apple ID）
-- 现在你可以尽情下载美区 App Store 的 app
+- 打开 `设置` - `iTunes Store 与 App Store`，点击顶部的 `Apple ID: ****@***` - `退出登录`，切换到刚刚注册好的美区 Apple ID
+- 现在，你可以尽情下载美区 App Store 的 app
 - 安装完成之后，可以切换回以前 Apple ID

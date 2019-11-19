@@ -31,7 +31,7 @@ quicklink: true
 
 ## What I Want You to Know
 
-- 除了 [健康](https://tingtalk.me/health/) 和生死，其他事情都可以克服或者放弃
+- 除了 [健康](https://tingtalk.me/health/) 和生死，其他事情都可以克服或者弃
 - 趁年轻，在身体未出现健康问题前，及早配置好 [保险](https://tingtalk.me/personal-insurance/)。对于普通收入的人来说，一年的费用从三千元到一万元不等即可防止因病致贫。
 
 

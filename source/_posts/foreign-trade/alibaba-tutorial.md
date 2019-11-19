@@ -2,7 +2,7 @@
 
 title: 阿里巴巴国际站：新手不完全入门指南  
 date: 2019-09-06  
-updated: 2019-10-26 
+updated: 2019-11-19 
 categories: 外贸  
 tags: 
 - 外贸
@@ -15,6 +15,9 @@ permalink: alibaba-tutorial
 
 <!-- more -->
 
+## Totorials
+
+- [ ]   [小朱笔记]( https://www.zhudc.com/b2b/ )
 
 ## 搭建国际站
 
@@ -99,7 +102,6 @@ permalink: alibaba-tutorial
   - 优势
   - 细节图
   - 关联产品营销
-
 - 公司介绍（40％）
   - 公司信息
   - 服务优势
