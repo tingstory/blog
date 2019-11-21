@@ -19,7 +19,7 @@ quicklink: true
 
 - 长期浸泡在 [科技互联网](https://tingtalk.me/categories/digital-life)，[Google](https://tingtalk.me/fq/) 是我的互联网启蒙老师，一刻也不能离开。
 - 帮过一些网友远程重装 [Windows](https://tingtalk.me/windows/) 系统，并总结了一些 [数字生活的小技巧](https://tingtalk.me/digital-life-tips/)。
-- 按照这个 [Hexo 教程](https://easyhexo.com/)，你也可以在半个小时内搭建一个和我一模一样的 [博客](https://tingtalk.me/categories/website/hexo/)。
+- 按照这个 [Hexo 教程](https://tingtalk.me/hexo/)，你也可以在半个小时内搭建一个和我一模一样的 [博客](https://tingtalk.me/categories/website/hexo/)。
 - 追求优雅的 [排版](https://tingtalk.me/typography/) 并自豪的采用 [Markdown](https://tingtalk.me/markdown/) 进行 [写作](https://tingtalk.me/categories/others/mandarin/)。
 - 纸上谈兵的 Loser，喜欢 [写东西](https://tingtalk.me/composition-seven-tips/)，但没有执行力。
 - 入门过 [平面设计](https://tingtalk.me/categories/design/)，能熟练换 Logo。
@@ -31,7 +31,7 @@ quicklink: true
 
 ## What I Want You to Know
 
-- 除了 [健康](https://tingtalk.me/health/) 和生死，其他事情都可以克服或者放弃
+- 除了 [健康](https://tingtalk.me/health/) 和生死，其他事情都可以克服或者弃
 - 趁年轻，在身体未出现健康问题前，及早配置好 [保险](https://tingtalk.me/personal-insurance/)。对于普通收入的人来说，一年的费用从三千元到一万元不等即可防止因病致贫。
 
 

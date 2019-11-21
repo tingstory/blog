@@ -1,15 +1,14 @@
 ---
 
-title: 庭勃士的英语杂货铺   
+title: 庭勃士的英语杂货店   
 date: 2019-07-14  
-updated: 2019-11-15  
+updated: 2019-11-22  
 categories: 英语  
 tags: 英语  
 permalink: english  
-
 ---
 
-Keep talking.
+这是一本属于我的英语百科全书。
 
 <!-- more -->
 
@@ -145,6 +144,12 @@ Keep talking.
 
 `My mom made me a packed lunch` / `My mom packed lunch`/ `My mom prepared me for a brown bag lunch` / `I just brown bag it`
 - 外带午餐（bento）
+
+- Have you finished eating?  
+  你吃完了吗？
+
+- I'll wash the dishes today, and you can wash them tomorrow.  
+  Fair enough. 好吧。
 
 
 
@@ -568,3 +573,8 @@ It was really thoughtful of you to remember my birthday.
 	今天工作怎么样?
 - Another day, another dollar.   
 	和往常一样。
+
+### Word
+
+- I'm a man of my word.  
+  我是一个说话算数的人。

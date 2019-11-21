@@ -2,7 +2,7 @@
 
 title: 如何优化 Hexo 静态博客  
 date: 2019-08-17  
-updated: 2019-11-03
+updated: 2019-11-21
 categories: [网站, Hexo]
 
 tags: 
@@ -20,9 +20,18 @@ permalink: hexo
 <!-- more -->
 
 
-## 👨‍💻 Easy Hexo
 
-[轻松入门 Hexo](https://easyhexo.com/)。
+## 🍊 [Gridea](https://gridea.dev/)
+
+一个静态博客写作客户端：适合喜欢安安静静写博客的人。
+
+
+
+## 👨‍💻 [Easy Hexo](https://easyhexo.com/)
+
+轻松入门 Hexo：适合喜欢折腾博客的人。
+
+
 
 
 ## 🔧 优化 URL
