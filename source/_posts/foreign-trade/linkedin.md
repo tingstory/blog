@@ -5,10 +5,10 @@ date: 2019-11-14
 updated: 2019-11-14
 categories: 外贸
 tags: 外贸
-permalink: linkedin
+permalink: linkedin  
 ---
 
-我只是喜欢做笔记，所以以下方法并没有开始实操。
+像蝗虫一样侵入职场社交，是否会让 LinkedIn 没落？
 
 <!-- more -->
 

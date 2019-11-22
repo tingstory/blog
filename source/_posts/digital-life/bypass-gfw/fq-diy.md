@@ -1,8 +1,8 @@
 ---
 
 title: 番茄种植指南  
-date: 2019-09-17  
-updated: 2019-09-29  
+date: 2017-10-11  
+updated: 2019-11-23  
 categories: [数字生活, 科学上网]  
 tags:
 - 数字生活
@@ -248,3 +248,6 @@ Enjoy it!
 
 参考 [番茄食用指南](https://tingtalk.me/fq/) 中的「吃番茄」章节。
 
+## 后话
+
+更多种植番茄的方法，参阅 [科学上网 - 左耳朵](https://haoel.github.io/)。

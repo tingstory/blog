@@ -9,7 +9,14 @@ https://www.solagirl.net/
 - backnature.hk
 
 
+Google Site Kit for Wordpress 已开放下载。这是谷歌为 Wordpress 做的插件，集合 
 
+- 搜索来源分析工具 Search console 
+- 流量分析工具 Google Analytics
+- 页面加载速度分析 Page speed insight
+- 广告联盟 Google Adsense 等
+
+推荐使用 Wordpress的站长尝试。
 内容站主题：2020主题
 
 

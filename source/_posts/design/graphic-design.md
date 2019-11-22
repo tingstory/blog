@@ -2,7 +2,7 @@
 
 title: 平面设计学习手记  
 date: 2019-06-16   
-updated: 2019-10-28  
+updated: 2019-11-22  
 categories: 设计  
 
 tags: 
@@ -186,6 +186,7 @@ permalink: graphic-design
 
 - [字由 - 字体下载管理工具](https://www.hellofont.cn/)
 - [这个字体可以商用吗](https://fonts.safe.360.cn/)
+- OPPO Sans
 - [阿里巴巴普惠体](https://alibabafont.taobao.com/wow/alibabafont/act/alifont)：只能用不能改
 - [思源黑体](https://github.com/adobe-fonts/source-han-sans/blob/master/README-CN.md)
 - [站酷字体合集](http://www.zcool.com.cn/special/zcoolfonts/)：站酷庆科黄油体、站酷文艺体、站酷小薇 LOGO 体、站酷酷黑体、站酷意大利体（ZCOOL Addict Italic）、站酷快乐体、站酷高端黑体

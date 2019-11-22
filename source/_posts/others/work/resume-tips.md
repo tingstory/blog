@@ -1,6 +1,6 @@
 title: 如何制作一份合作的简历？  
 date: 2019-06-29  
-updated: 2019-10-26  
+updated: 2019-11-22  
 categories: [其它, 工作]   
 
 tags:  
@@ -169,3 +169,4 @@ permalink: resume-tips
 - 可参考 QQ 邮箱里的简历模板，详情参见 [让简历制作更轻松的小秘密](http://mp.weixin.qq.com/s/sN5W-E6-7zjkD9kjOybdDA)
 - [在线 Markdown 简历排版工具](https://resume.mdnice.com/)
 - [冷熊简历](http://cv.ftqq.com/#)：另一款在线 Markdown 简历排版工具
+- [Resumd](https://resumd.t9t.io/)
