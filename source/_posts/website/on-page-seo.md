@@ -78,22 +78,18 @@ permalink: on-page-seo
 检查你的页面是否只有一个 H1：
 1. F12
 2. CTRL + F，就能调用出搜索栏
-3. 输入<H1>
+3. 输入`H1`
 
 在 H2 标签中包含带有关键词的副标题
-
-
 
 ### 关键词
 
 - Meta 中的 Keywords 不用写，详见 Google 官方 2009 年的  [声明](https://webmasters.googleblog.com/2009/09/google-does-not-use-keywords-meta-tag.html)
-
 - 筛选一些（正文中的）关键词（Supporting Page Keywords）主关键词的支撑：
   - what is onpage and offpage seo
   - on page seo checklist 2019
   - on page seo steps
-  - on page seo techniques
-  
+  - on page seo techniques  
 - LSI 关键词（Latent Semantic Indexing：潜在语义索引），这种索引方法并不依赖于语言，例如：
     > SEO 和搜索引擎优化（虽然一个是英语，一个是中文）这两个词大量出现在相同的网页中，虽然搜索引擎还不能知道搜索引擎优化或 SEO 指的是什么，但是却可以从语义上把
     > - SEO
@@ -102,18 +98,13 @@ permalink: on-page-seo
     > - SEM
     > - ……
     >
-    > 等词紧紧的连在一起。by [维基百科](https://zh.wikipedia.org/zh-cn/%E6%BD%9C%E5%9C%A8%E8%AF%AD%E4%B9%89%E7%B4%A2%E5%BC%95)
-    
+    > 等词紧紧的连在一起。by [维基百科](https://zh.wikipedia.org/zh-cn/%E6%BD%9C%E5%9C%A8%E8%AF%AD%E4%B9%89%E7%B4%A2%E5%BC%95)    
 - 首段文字必须包含关键词。
-
 - 每个页面只做一个关键词，只优化一个关键词，以达到最高的效率。多个子关键词页面链接到一个主关键词页面，提高这个主关键词页面权重和收录。
 
+
 **Tools**
-
 - 借助付费工具 [Surfer](https://surferseo.com/)，查看关键词密度建议（未亲测）
-
-
-
 
 
 ### URL
