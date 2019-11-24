@@ -1,4 +1,45 @@
-https://mp.weixin.qq.com/s?__biz=MzI5MzU3Njg2NA==&mid=2247484250&idx=1&sn=17f537086940d98ec1ad5d2ff3bae68b&chksm=ec714a95db06c38391364121d9627e71b29dda24db32762446deb5f146449a3d6ea05501b1f3&scene=21&ascene=0&devicetype=android-26&version=2700033c&nettype=3gnet&abtest_cookie=BAABAAoACwASABMABQAjlx4AVpkeAMOZHgDamR4A3JkeAAAA&lang=zh_CN&pass_ticket=mwD3AFin2SE%2BA0E0P5pH92Wamzmga9J7kBDHVEf0H%2FK01V0QGB2SacjG%2FH6TsPXT&wx_header=1
+---
+
+title: 站外搜索引擎优化（Off-Page SEO）   
+date: 2019-11-24  
+updated: 2019-11-24  
+categories: 网站  
+tags:  
+- 网站
+- 搜索引擎优化  
+permalink: off-page-seo  
+---
+
+牢牢记住：一切以用户体验为出发。
+
+<!-- more -->
+
+## Tool
+
+- [Backlink Checker - Ahrefs](https://ahrefs.com/backlink-checker)：查看全部数据要付费
+- [Backlink Checker Tool – The HOTH](https://www.thehoth.com/backlinks-checker/)：查看全部数据要付费
+- [Backlink - Neil Patel](https://neilpatel.com/backlinks/)：数据不全
+
+
+
+
+
+名称	链接
+Medium	https://medium.com
+WordPress	https://wordpress.com
+Tumblr	https://www.tumblr.com
+Wix	https://www.wix.com
+Zoho	https://www.zoho.com
+Yola	https://www.yola.com
+Linkedin	https://www.linkedin.com
+
+
+
+
+
+[SEO专题课06：外链类型介绍及获取方法](https://mp.weixin.qq.com/s?__biz=MzI5MzU3Njg2NA==&mid=2247484250&idx=1&sn=17f537086940d98ec1ad5d2ff3bae68b&chksm=ec714a95db06c38391364121d9627e71b29dda24db32762446deb5f146449a3d6ea05501b1f3&scene=21&ascene=0&devicetype=android-26&version=2700033c&nettype=3gnet&abtest_cookie=BAABAAoACwASABMABQAjlx4AVpkeAMOZHgDamR4A3JkeAAAA&lang=zh_CN&pass_ticket=mwD3AFin2SE%2BA0E0P5pH92Wamzmga9J7kBDHVEf0H%2FK01V0QGB2SacjG%2FH6TsPXT&wx_header=1)
+
+
 
 
 少量的目录外链
@@ -12,6 +53,25 @@ APL或Guest Post外链
 这里给大家推荐一个国外的Agency：OutreachMaMa。
 
 250美元起/条。
+
+
+
+---
+
+在网站刚上线的时候，我们没有任何外链前提下，我们可以先建设pillow link。pillow link包含：
+Web 2.0外链 (blogger.com/wordpress.org这种博客网站)；
+
+Press Release 新闻稿外链 (适合 B2B)；
+
+Directory 目录站外链；
+
+Citation 外链 (适合 B2C)；
+
+
+
+在网站有了一定基础外链之后，我们可以搭建一些Authority Link, 
+
+APL (Authority Privacy Link)隐私权重传递外链 (目前拓谷思有售)，PBN (Private Blog Networks) 外链，不建议在Fiverr买便宜PBN外链 (很多做黑帽SEO的会用很多PBN外链)，Guest Post (客座博客)链接，需要自己去outreach 联系对方站长，很费时间和精力，不过效果很不错。
 
 
 

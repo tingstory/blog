@@ -2,7 +2,7 @@
 
 title: 怎么学英语  
 date: 2019-07-16  
-updated: 2019-11-12  
+updated: 2019-11-24  
 categories: 英语  
 tags: 英语  
 permalink: tinglish  
@@ -61,6 +61,13 @@ permalink: tinglish
 
 - 免费版提供语法纠正（Grammar）、拼写纠正（Spelling）和标点纠正（Punctuation）等基础功能。
 - 支持 [网页版](https://app.grammarly.com/)、 [Mac 版](https://www.grammarly.com/native/mac)、[Windows 版](https://www.grammarly.com/native/windows)、[Word 插件](https://www.grammarly.com/office-addin) 和输入法。但和 Grammarly 最般配的是，把它装进浏览器里，不管是写邮件、还是在社交媒体上发 Post，它就是你身边的写作小助手。
+
+### [Hemingway Editor](http://www.hemingwayapp.com/)
+
+- 文章可读性：makes your writing bold and clear 
+- 错误的拼写，副词、 被动语态
+- 冗长的句子
+- 复杂的单词
 
 ### 查单词
 

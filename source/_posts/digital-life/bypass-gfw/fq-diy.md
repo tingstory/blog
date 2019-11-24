@@ -42,7 +42,7 @@ VPS 是英文 Virtual Private Servers （虚拟专用服务器）的缩写，你
 
 ### 注册
 
-- 打开 [Vultr 的官网](https://www.vultr.com/?ref=7230883)
+- 访问 [Vultr](https://www.vultr.com/?ref=7230883)
 - 点击 `Creat Account`，注册账户并验证邮箱
 
 ### 充值
