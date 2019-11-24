@@ -2,7 +2,7 @@
 
 title: 番茄种植指南  
 date: 2017-10-11  
-updated: 2019-11-23  
+updated: 2019-11-24  
 categories: [数字生活, 科学上网]  
 tags:
 - 数字生活
@@ -42,7 +42,7 @@ VPS 是英文 Virtual Private Servers （虚拟专用服务器）的缩写，你
 
 ### 注册
 
-- 打开 [Vultr 的官网](www.vultr.com/?ref=7230883)
+- 打开 [Vultr 的官网](https://www.vultr.com/?ref=7230883)
 - 点击 `Creat Account`，注册账户并验证邮箱
 
 ### 充值
