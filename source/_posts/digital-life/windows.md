@@ -2,7 +2,7 @@
 
 title: Windows 电脑：使用技巧、佳软推荐、重装教程  
 date: 2017-12-18  
-updated: 2019-11-14  
+updated: 2019-11-26  
 categories: 数字生活  
 tags: 
 - 数字生活
@@ -77,7 +77,14 @@ permalink: windows
 
 ### 优化任务栏
 
-- 右击任务栏任一空白处，选择 `任务栏设置` > `合并任务栏按钮：任务栏已满时`。
+- 右击任务栏不想展示出来的图标，选择 `在任务栏取消固定`。
+
+- 右击任务栏任一空白处
+
+  - 选择 `任务栏设置` > `合并任务栏按钮：任务栏已满时`。
+  - 取消勾选 `人脉`、`任务视图`、`Cotana`（可用 `Win + C` 唤醒小娜）等
+
+  
 
 
 ### 快捷输入大写字母
@@ -92,7 +99,7 @@ permalink: windows
 - `Win + E` 打开文件资源管理器，右击左侧 `快速访问` 中的 `下载`，选择 `属性`，切换到 `位置` 选项卡，输入 `D:\Downloads`
 - 安装软件时，把路径中的 `C` 改成 ` D`（`C:\Program Files (x86)\QQ` > `D:\Program Files\QQ`），统一在**非系统盘**管理
 - 释放系统盘的空间：依次选择 `开始` 菜单 > `设置` > `系统` > `存储` > `更多存储设置` - `更改新内容的保存位置：非系统盘`
-- 点击软件标题，即可跳转到软件的官网
+- 点击下方的软件标题，即可跳转到软件的官网
 
 
 
@@ -336,22 +343,35 @@ permalink: windows
 
 ## Windows 重装
 
-下面介绍如何用 U 盘安装纯净的 Windows 10 系统。
+下面介绍如何安装纯净的 Windows 10 系统。
 
-### 准备工作
+### 下载 Windows 10
 
-- 备份好电脑 C 盘（系统盘）内的数据
-- 1 个 8G 以上的 U 盘：请备份好 U 盘内数据
 - 下载 Windows 10 光盘映像（ISO 文件）：截止 2019-10-12，最新版是 [Windows 10 (business editions), version 1909 (x64) - DVD (Chinese-Simplified)  ](https://msdn.itellyou.cn/)
 - 下载 [360 驱动网卡版](http://www.360.cn/qudongdashi/index.html) ：防止电脑安装后无法联网
 
+下载系统的同时，备份好电脑 C 盘（系统盘）内的数据。重要数据，备份 2 次：
 
-### 制作 WinPE 启动盘
+- 云盘 1 份
+- U 盘或移动硬盘 1 份
 
-> Windows PreInstallation Environment（Windows PE，简称 WinPE），其中文含义为 Windows 预安装环境。简单来说，WinPE 就是一个超级迷你版的 Windows。它可以安装在 U 盘中，从而可以通过 U 盘启动电脑
+通常情况下，D 盘和 E 盘等在安装过程中，数据不会被清除，但为了保险起见，还是备份一下 C 盘以外的数据，毕竟数据无价。 不过，我的做法是全盘清空。因为重装系统后，不管原先放在哪个盘的软件，全部都要重装一遍。何不彻底一点，来个大扫除。
+
+### 安装 Windows 10
+
+#### 方法一
+
+如果电脑可以正常开机，直接解压 Windows 10 镜像，双击 `setup`，按照提示，即可正常安装 Windows 10。
+
+#### 方法二
+
+如果电脑不能正常开机，例如忘记开机密码，可以者借助 U 盘（ 8G 以上；已备份好 U 盘内的数据）制作 WinPE 启动盘。
 
 
-> [微 PE 优盘使用说明书](http://www.wepe.com.cn/ubook/)
+
+> Windows PreInstallation Environment（Windows PE，简称 WinPE），其中文含义为 Windows 预安装环境。简单来说，WinPE 就是一个超级迷你版的 Windows。它可以安装在 U 盘中，从而可以通过 U 盘启动电脑。
+
+
 
 
 - 下载 [微 PE 工具箱（Win10PE 版）](http://www.wepe.com.cn/download.html)
@@ -362,9 +382,6 @@ permalink: windows
 - `立即安装进Ｕ盘`
 - 安装完成后，把 Windows 镜像文件和网卡驱动一起复制到 U 盘里
 
-
-### 安装 Windows 10
-
 - [设置 BIOS 中 U 盘为引导启动设备](http://jijiupan.360.cn/startguide.html)
 - 进入 WinPE
 - 打开 `Windows 安装器`，选择 U 盘中的 Windows 安装文件
@@ -373,20 +390,28 @@ permalink: windows
 - 开始安装，选择专业版
 
 
+
+更多玩法，参阅 [微 PE 优盘使用说明书](http://www.wepe.com.cn/ubook/)。
+
+
+
+
 ### 激活 Windows 10
 
 - 右击桌面左下角的开始图标（快捷键 `Win + X`），选择 `Windows PowerShell (管理员)`
 
-- 请粘贴以下代码到 PowerShell 的命令行：
+- 复制以下代码，右键粘贴到 PowerShell 的命令行：
     ```
     slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
     slmgr /skms kms.03k.org
     slmgr /ato
     ```
     
-- 10 秒钟过后，自动激活成功（注意，此方法具有时效性）
+- 10 秒钟过后，自动激活成功。
 
-如果上文的方法失效了：
+
+
+**如果上文的方法失效了**
 
 
 > 备选激活方式一：[Windows：从下载到激活盗版 - NoBige-JackCh3n](https://nobige.cn/post/20190729-WindowsOS_cong_xia_zai_dao_ji_huo_dao_ban/)  
@@ -394,9 +419,11 @@ permalink: windows
 
 
 
-### 找回隐藏的桌面图标
+**找回隐藏的桌面图标**
 
 选择 `开始` 菜单 ，然后依次选择 `设置` > `个性化` > `主题` > `桌面主题设置` > 勾选想要放在在桌面上的图标，例如 `计算机`。
+
+
 
 ---
 
@@ -405,4 +432,4 @@ permalink: windows
 
 - Email：tingtalk.me(at)gmail.com
 - [Telegram](https://t.me/tingtalkgroup)：https://t.me/tingtalkgroup
-- WeChat：804 976 336
+- WeChat：`804 976 336`

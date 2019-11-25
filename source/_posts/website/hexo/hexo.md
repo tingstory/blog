@@ -1,8 +1,8 @@
 ---
 
-title: 如何优化 Hexo 静态博客  
-date: 2019-08-17  
-updated: 2019-11-21
+title: Hexo 静态博客优化清单  
+date: 2017-07-17  
+updated: 2019-11-26
 categories: [网站, Hexo]
 
 tags: 
@@ -12,13 +12,11 @@ tags:
 - 搜索引擎优化
 
 permalink: hexo  
-
 ---
 
-让博客的链接更美观，更有利于 SEO。
+是 Hexo + NexT 让我重拾笔杆子，感谢开发者们和维护者们。
 
 <!-- more -->
-
 
 
 ## 🍊 [Gridea](https://gridea.dev/)
@@ -163,6 +161,16 @@ marked:
 [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed): Feed generator for Hexo.
 
 
+
+## 🖼️ 把图片放在 `_posts`
+
+[hexo-asset-link](https://github.com/liolok/hexo-asset-link): Convert base-relative asset links to root-relative ones, so that user can insert assets like images in markdown way. 
+
+教程：[如何为 Hexo 博文加入图片](https://liolok.github.io/zh-CN/How-to-Add-Image-to-Hexo-Blog-Post/#Hexo-文章资源文件夹)
+
+
+
+
 ## 💚 修改 NexT
 
 ### 🖼️ 图片居中
@@ -175,12 +183,6 @@ marked:
   }
 
 ```
-
-
-
-### 🖼️ 图片
-
-
 
 
 
