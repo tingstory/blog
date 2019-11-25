@@ -347,7 +347,7 @@ permalink: windows
 
 ### 下载 Windows 10
 
-- 下载 Windows 10 光盘映像（ISO 文件）：截止 2019-10-12，最新版是 [Windows 10 (business editions), version 1909 (x64) - DVD (Chinese-Simplified)  ](https://msdn.itellyou.cn/)
+- （打开迅雷）下载 Windows 10 光盘映像（ISO 文件）：截至 2019-10-12，最新版是 [Windows 10 (business editions), version 1909 (x64) - DVD (Chinese-Simplified)](https://msdn.itellyou.cn/)
 - 下载 [360 驱动网卡版](http://www.360.cn/qudongdashi/index.html) ：防止电脑安装后无法联网
 
 下载系统的同时，备份好电脑 C 盘（系统盘）内的数据。重要数据，备份 2 次：
@@ -381,7 +381,6 @@ permalink: windows
 - 程序会自动识别待写入的 U 盘，其他参数默认即可
 - `立即安装进Ｕ盘`
 - 安装完成后，把 Windows 镜像文件和网卡驱动一起复制到 U 盘里
-
 - [设置 BIOS 中 U 盘为引导启动设备](http://jijiupan.360.cn/startguide.html)
 - 进入 WinPE
 - 打开 `Windows 安装器`，选择 U 盘中的 Windows 安装文件
