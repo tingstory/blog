@@ -5,7 +5,7 @@
 # Site
 title: 庭说
 subtitle: 保持勃起的好奇心
-description: 保持勃起的好奇心（Follow Your Curiosity）
+description: 保持勃起的好奇心（Follow Your Curiosity）。
 keywords: 庭说,TingTalk
 author: 庭勃士
 language: zh-CN
@@ -219,3 +219,6 @@ feed:
 
 sitemap:
     path: sitemap.xml
+
+
+post_asset_folder: true
