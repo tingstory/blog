@@ -1,5 +1,13 @@
 
 
+## To Do
+
+- 定期备份
+
+
+
+
+
 ## 购买云服务器
 
 阿里云服务器 ECS 一键购买 
@@ -102,6 +110,22 @@
 
 
 
+
+## 下载 WoedPress
+
+ https://cn.wordpress.org/download/releases/ 
+
+
+
+
+
+## 插件
+
+
+
+### All in One SEO Pack
+
+百度 SEO：取消All in One SEO 中 noindex设置。
 
 
 

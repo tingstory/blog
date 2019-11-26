@@ -64,7 +64,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 目前，我从这两家买番茄：
 
 - [Just My Socks](https://justmysocks1.net/members/aff.php?aff=1010)：月付 2.88 USD 的番茄缺货中，预计年底才会补货（目前最低价 5.88 USD）。
-- [flycloud](https://www.flycloud.ws/auth/register?code=Lugd)：价格敏感的用户可以选 flycloud 家的番茄，月付最低只要 ￥5（使用优惠码 `S11` 后只要 ￥4）。
+- [flycloud](https://www.fly-cloud.cc/auth/register?code=Lugd)：价格敏感的用户可以选 flycloud 家的番茄，月付最低只要 ￥5（使用优惠码 `S11` 后只要 ￥4）。
 
 为了保险起见，不管是买哪一家的番茄，我都推荐先买一个月的量试用一下。毕竟道高一次，魔高一丈，中国的网管可不是吃素的（可怕的食肉动物），对番茄这种水果极其厌恶。
 

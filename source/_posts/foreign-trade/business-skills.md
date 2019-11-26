@@ -2,7 +2,7 @@
 
 title: 如何提升外贸业务技能？  
 date: 2019-10-19  
-updated: 2019-10-26
+updated: 2019-11-26
 categories: 外贸   
 tags: 
 - 外贸
@@ -210,9 +210,15 @@ Tim
 
 
 
+
+
 ### 如何跟客户杀价
 
 - 挖掘信息：贵多少，和谁比
+	- Too expensive, compared to what?
+	- How much higher are we?
+	- What price were you expecting?
+	- What makes you to say that? 
 - 提供低配版本，但表示不想牺牲质量
 - 每个产品都会检查质量，并非抽检
 - 成本分析表（虚实结合）：合理的利润，才能给客户更好的服务。
@@ -221,6 +227,10 @@ Tim
 	- 交期我定（拼单）
 	- 提高订单数量
 	- 其他合作方式是否一致
+
+
+
+关联阅读：[索菲外贸笔记 - 讨价还价](https://sophienotes.cn/tag/%E8%AE%A8%E4%BB%B7%E8%BF%98%E4%BB%B7/)
 
 
 
@@ -298,7 +308,6 @@ Tim
 - 关注大客户
 - 外观创新
 - 功能创新
-
 
 ---
 
