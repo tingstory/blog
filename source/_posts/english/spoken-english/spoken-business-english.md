@@ -2,7 +2,7 @@
 
 title: 英语口语：外贸篇  
 date: 2019-07-16  
-updated: 2019-10-31  
+updated: 2019-11-27  
 categories:   
 - [英语, 英语口语]  
 
@@ -19,7 +19,7 @@ permalink: spoken-business-english
 
 只要我们敢把英文说出口，外国朋友并不会嘲笑我们的中式口音，就像我们不会嘲笑外国朋友说中文一样。
 
-以下对话出自《毅冰私房英语书：7 天秀出外贸口语》，由庭勃士逐字逐句在键盘上敲击出来。
+本文出自《毅冰私房英语书：7 天秀出外贸口语》，由庭勃士逐字逐句在键盘上敲击而成。
 
 
 <!-- more -->
@@ -95,6 +95,29 @@ permalink: spoken-business-english
 - 📗 Yeah, I understand. But the most important thing is getting the order, right? I can not take the risk of negotiating the price with my customer. We could make less, but have to let our customer keep the margin. Please consider it and confirm it with me today.
 - 📕 Well, I have to discuss it with my boss and I'll get back to you.
 - 📗 Great. Thank you!
+
+
+
+### 初次开发潜在客户
+
+- 📕 Cindy
+- 📗 Brenda
+
+**Dialogue**
+
+- 📗 Hello, 
+	who's this?  
+	秘书接到电话：Mr. Weaver's office. Miss Martin speaking.  
+	Good morning, thank you for calling `***`. This is Joan. How can I help you?  
+- 📕 Hi, this is Cindy from `***` Trading in China.  We supply solar light and other outdoor lighting items. Could you please transfer this phone call to `who are in charge of purchasing.` / `whoever is in charge of purchasing.` 
+- 📗 Do you come from China? We've already imported similar products from China.
+- 📕 Yes, I know. But please give me an opportunity to show you our new items. All of them meet SAA Standard(s) in Australia and New Zealand.
+- 📗 Okay. Please send me an email first with an overview of your company and your products. Also, could you recommend us a couple of articles with your best offer? We have to check and do the comparison. If it all sounds good, I will forward to the email to the buyer.
+- 📕 Thank you so much for your help! could you please give me your email address?
+- 📗 Sure. brenda@`***`.com My name is Brenda.
+- 📕 OK. Thank you, Branda! Nice talking to you!
+
+
 
 
 ## 展会上接待客户

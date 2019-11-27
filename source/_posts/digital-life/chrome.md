@@ -13,7 +13,7 @@ permalink: chrome
 
 ---
 
-Google Chrome（谷歌浏览器）是我在电脑上每天**使用时间最长的软件**。简洁、好用、强大是我对它的评价。
+Google Chrome（谷歌浏览器）是我在电脑上每天**使用时间最长的软件**。简洁、好用、强大是我对它的评价。（初稿）
 
 <!-- more -->
 
@@ -28,7 +28,7 @@ Google Chrome（谷歌浏览器）是我在电脑上每天**使用时间最长�
 
 **下载**
 
-- [Chrome 官方下载网址](https://www.google.cn/chrome/)：google.cn/chrome
+- [Chrome 官方下载网址]( https://www.google.com/intl/zh-CN/chrome/ )：www.google.com/intl/zh-CN/chrome/
 - [Chrome 最新版离线安装包下载网址](https://www.iplaysoft.com/tools/chrome/)：iplaysoft.com/tools/chrome
 - [RunningCheese 定制版 Chrome 下载网址](https://www.runningcheese.com/chrome )：runningcheese.com/chrome 
   - 绿色便携，内核可随 Chrome 官方发布的版本更新。

@@ -2,7 +2,7 @@
 
 title: Windows 电脑：使用技巧、佳软推荐、重装教程  
 date: 2017-12-18  
-updated: 2019-11-26  
+updated: 2019-11-27  
 categories: 数字生活  
 tags: 
 - 数字生活
@@ -21,7 +21,7 @@ permalink: windows
 
 ### First of all
 
-文件不要放在桌面上，而是放在非系统盘。然后右键文件夹，选择发送快捷方式到桌面。
+文件不要放在桌面上，而是放在非系统盘，然后右键文件夹，选择 `发送到：快捷方式到桌面`。
 
 ### 常用快捷键
 
@@ -113,7 +113,7 @@ permalink: windows
 
 
 
-#### [Chrome](https://www.google.cn/chrome/)
+#### [Chrome](https://www.iplaysoft.com/tools/chrome/)
 
 - Google Chrome（谷歌浏览器）作为全球 65.64% 用户的选择，你应该成为其中的一员（2019 年 4 月）。
 - 你可以从超过 15 万款 Chrome 扩展程序中随心选择，按照自己的喜好扩展浏览器功能（Chrome 最强大的地方）。
@@ -189,6 +189,9 @@ permalink: windows
 - Typora 原生支持导出 PDF、HTML 等格式。你可以根据软件内的提示安装 Pandoc 插件来导出更多文件格式，例如 Word (.docx)，LaTeX 等格式。 
 - 新版加入了右键 `使用 Google 搜索`，真是妙不可言。
 - `文件` > `偏好设置` > `开启自动保存`
+- `文件` > `打开文件夹` > 选择文件夹 > 在文件视图界面左下角
+	- 切换 `树视图`
+	- `操作` - `搜索`：打开全局搜索，包括搜索 Markdown 文档里内容。Awesome！
 - 关联阅读：[Markdown 入门教程及书写风格指南](https://tingtalk.me/markdown/)
 
 
@@ -218,7 +221,7 @@ permalink: windows
 - 兼容 Office、PDF 等办公常用文档，无需下载即可查看编辑。
 - 支持微信、微博、链接收藏和网页剪报等多种形式，优秀内容一键保存永不丢失。
 - ❗ 但 Markdown 模式真的太丑太难用了。卡顿、没有大纲、不支持快捷键、非所见即所得，麻烦产品经理向 Typora 学习一下。
-- 弃用中，正在迁往 Typora（Windows）+ 坚果云Markdown（Android）
+- 弃用中，笔记正在迁往 Typora（Windows）+ 坚果云 Markdown（Android）
 
 
 
@@ -250,7 +253,7 @@ permalink: windows
 
 #### [Microsoft Whiteboard](https://products.office.com/zh-cn/microsoft-whiteboard/)
 
-一块自由形态数字画布。
+一块自由形态数字画布，使用快捷键 `Win + W` 打开微软白板（Microsoft Whiteboard）。
 
 **优点**
 
@@ -318,6 +321,16 @@ permalink: windows
 - 2012 年 9 月百度推出「百度云」。2016 年 10 月 11 日，百度云（Baidu Cloud）改名为百度网盘。
 - 在国内大容量免费网盘相继「去世」的困境下，不知道百度网盘还能挺多久，虽然下载会限速。
 - ❗ 鸡蛋不要放在同一个篮子里，重要的数据还是乖乖地做好多个备份吧。
+
+
+
+#### [坚果云](https://www.jianguoyun.com/)
+
+最安全、稳定、快速的云盘 / 网盘 / 企业网盘，提供跨平台的文件同步、备份、分享服务。以无限存储空间、多文件夹同步、速度最快的局域网同步为特点。
+
+- 当前使用免费版（上传流量 1 G/月；下载流量 3 G/月）同步 Typora 写的 Markdown 文章，完全够用。
+- Android 手机上使用 [坚果云Markdown](https://www.jianguoyun.com/static/html/markdown-landing/index.html) 编辑文章。
+- 内置 [坚果云合同库]( https://legaldb.jianguoyun.com/)： 数万标准模板，例如《房屋租赁合同》、《离婚协议》、《 员工辞职信模板 》等，助您高效工作。
 
 
 

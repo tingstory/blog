@@ -156,6 +156,10 @@ Google Site Kit for Wordpress 已开放下载。这是谷歌为 Wordpress 做的
 
 
 
+https://leandomainsearch.com/
+
+
+
 ### One Piece
 
 Anime Affiliate
@@ -179,6 +183,8 @@ onepiecebest.com
 - enfold
 - bethem
 - divi
+- https://wpfanyi.com/themes/generatepress
+- https://www.genesisforwp.com/free-download-generatepress-premium/
 
 
 ## 修复
