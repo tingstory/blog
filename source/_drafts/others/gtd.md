@@ -1,15 +1,10 @@
 # GTD：把事情处理好
 
-- [ ] SEO
-- [ ] 财务自由
-
-
-
 
 
 ## 收集箱（Inbox）
 
-- [ ] 
+
 
 ## 执行清单（”@Context” task“）
 
@@ -23,29 +18,26 @@
 
 
 
-- [ ] 亚克力 @ 李明钊
-- [ ] 三角带 @ 张润丰
-- [ ] 学英语 
-
 ## 等待清单（”Waiting for“ task）
 
 提前提醒对方，并产生利益，然后设置日程
 
-- [ ] 制作 Catalog of Fanny Pack
+
 
 ## 项目清单（“Plan project“ plan）
 
 同步更新到执行清单
 
-- [ ] 搭建企业网站
+
 
 ## 可能清单（Someday / maybe）
 
 想清楚了，就指定计划。
 
-- [ ] Python
-- [ ] 正则表达式
+
 
 ## 参考资料（Reference）
+
+
 
 ## 回收箱（Trash）

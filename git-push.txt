@@ -1,3 +1,2 @@
 git add .
-git commit -m "update google-ads"
-git push origin master
+git commit -m "update mobile text_align left"
