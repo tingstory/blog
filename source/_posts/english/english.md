@@ -1,14 +1,14 @@
 ---
 
-title: 庭勃士的英语杂货店   
+title: 英语杂货店   
 date: 2019-07-14  
-updated: 2019-11-22  
+updated: 2019-11-27  
 categories: 英语  
 tags: 英语  
 permalink: english  
 ---
 
-这是一本属于我的英语百科全书。
+这是一本属于庭勃士的英语百科全书。
 
 <!-- more -->
 
@@ -39,6 +39,14 @@ permalink: english
 
 - How about we go on a picnic this weekend?  
   我们周末去野餐如何？（How about 后面可以接句子，What about 不可以）
+
+### Appreciate
+
+后面必须加宾语：
+- I appreciate your understanding and support.   
+  谢谢你的理解和支持。
+- I appreciate it.   
+  谢谢了。
 
 
 
@@ -406,8 +414,7 @@ We found a pick-your-own apple orchard `'ɔrtʃərd`.
 
 生病的
 
-- `Sick` 口语中更常用
-  -   呕吐的：`seasick` 晕船、`carsick` 晕车、`airsick` 晕飞机
+- `Sick` 口语中更常用；呕吐的：`seasick` 晕船、`carsick` 晕车、`airsick` 晕飞机
 - `Ill` 比较正式
 
  生病的说法
@@ -424,6 +431,32 @@ We found a pick-your-own apple orchard `'ɔrtʃərd`.
 
 -  `I'm feeling bad, I couldn't make it to the party.` 没法去派对，我感到很遗憾。 
 
+
+
+### Sleep
+
+- sleep like a baby（宝宝）
+
+- sleep like a log（木头）
+
+- As soon as I closed my eyes I will fall asleep.   
+  我闭上眼睛就睡着了。
+  
+- I was kept awake by the noise last night.   
+  昨晚的吵闹声，吵得我睡不着。
+  
+- I had a sound sleep and didn't hear anything.   
+  我睡得很香，什么也没有听到。
+  
+- Are you going to stay up late.   
+  你打算熬夜不睡觉吗？
+  
+- I had a pain that kept me awake all night.   
+  我疼得整夜睡不着觉
+  
+-  I'm used to sleeping late.  
+  我习惯晚睡
+  
 
 
 ### Sorry
@@ -578,3 +611,10 @@ It was really thoughtful of you to remember my birthday.
 
 - I'm a man of my word.  
   我是一个说话算数的人。
+
+
+
+### Wonder
+
+- No wonder。  
+  难怪。

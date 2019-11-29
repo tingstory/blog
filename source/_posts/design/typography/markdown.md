@@ -2,7 +2,7 @@
 
 title: Markdown 入门教程及书写风格指南  
 date: 2016-03-15  
-updated: 2019-11-27  
+updated: 2019-11-28  
 categories: [设计, 排版]  
 
 tags: 
@@ -536,6 +536,7 @@ Markdown 的用途很广。Write once, export everywhere：写博客、写邮件
 - [Markdown 合集 - 少数派](https://sspai.com/tag/Markdown)
 - [Google Markdown 书写风格指南](https://www.jianshu.com/p/3beac9fd6496)
 - [Markdown Style Guide by Google](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md)
+- [Typora 完全使用详解 - liquid617](https://sspai.com/post/54912) 
 
 **关联阅读**
 

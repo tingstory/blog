@@ -2,9 +2,14 @@
 
 ## To Do
 
-- 定期备份
+- [ ] 定期备份
+- [ ] 建议搜索引擎不索引本站点 
+- [ ] 
+- [ ] 中文字体： https://wordpress.org/plugins/tinymce-advanced/ 
 
-
+```html
+font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+```
 
 
 
@@ -131,6 +136,24 @@
 
 
 
+https://www.hellobar.com/
+
+
+
+
+
+
+
+### Autoptimize
+
+ https://www.youtube.com/watch?v=RPwob-0N2ok 
+
+
+
+
+
+### [TinyMCE Advanced](https://wordpress.org/plugins/tinymce-advanced/)
+
 
 
 
@@ -200,9 +223,31 @@ https://wpfixit.com/专业修复wp网站的
 
 
 
-## 插件
 
-https://www.hellobar.com/
+
+
+
+
+
+## 优化
+
+
+
+登录状态下，前台页面隐藏 Admin Bar，你是否觉得浏览网站的时候，总是在顶部有条黑色的 admin bar 很烦人？我们可以让它不显示。在【Appearance】(外观) – 【Editor】里我们可以添加代码屏蔽。在右侧的 Templates 那里点击 functions.php 文件，然后按照下图粘贴下面代码：
+
+
+
+```php
+// hide admin bar
+add_filter('show_admin_bar', 'hide_admin_bar');
+function hide_admin_bar($flag) {
+ return false;
+}
+```
+
+
+
+
 
 
 
