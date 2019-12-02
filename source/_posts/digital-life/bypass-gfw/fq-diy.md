@@ -2,7 +2,7 @@
 
 title: 番茄种植指南  
 date: 2017-10-11  
-updated: 2019-11-24  
+updated: 2019-12-03  
 categories: [数字生活, 科学上网]  
 tags:
 - 数字生活
@@ -12,23 +12,24 @@ permalink: fq-diy
 
 ---
 
-在 qiáng 大的国家机器面前，我推荐 99% 的人直接去菜市场购买 [现成的番茄](https://tingtalk.me/fq/)。倘若动手能力还不错，可以买一块地（VPS），自己种番茄。但是要想自产自足，丰衣足食，得学不少网络知识。
+在 qiáng 大的国家机器面前，我推荐 99% 的人直接去 [菜市场](https://github.com/387099/SSR/issues/1) 购买 [现成的番茄](https://tingtalk.me/fq/)。倘若动手能力不错，可以买一块地（VPS），自己种番茄。
 
 <!-- more -->
 
 ## 前言
 
-**搭建流程**
+目前比较流行的番茄种植技术有：
 
-1. 在 VPS（服务器）上安装 Shadowsocks 服务端
-2. 在电脑 / 手机上安装 Shadowsocks 客户端
-3. 启动客户端，输入服务器地址、端口、密码和加密方式等，不出意外，即可访问 Google
+- Shadowsocks
+  - 2012 年 4 月 20 日诞生
+  - 主流种植技术，但种出来番茄保质期越来越短了
+  - 变体有 ShadowsocksR 和 ShadowsocksRR
+- V2Ray
+  - 2015 年 11 月 30 日发布 1.0 正式版
+  - 新兴种植技术，可以救活被网管砸坏的番茄
+  - 种植技术较复杂
 
-**预计花费**
 
-- 金额：$10+
-- 时间：1 个小时
-- 代码：4 行
 
 
 ## 购买 VPS
@@ -114,7 +115,17 @@ VPS 是英文 Virtual Private Servers （虚拟专用服务器）的缩写，你
 
 
 
-## 安装 Shadowsocks 服务端
+## Shadowsocks
+
+**搭建流程**
+
+1. 在 VPS（服务器）上安装 Shadowsocks 服务端
+2. 在电脑 / 手机上安装 Shadowsocks 客户端
+3. 启动客户端，输入服务器地址、端口、密码和加密方式等，不出意外，即可访问 Google
+
+
+
+### 安装 Shadowsocks 服务端
 
 复制下面的 [Shadowsocks 一键安装脚本（四合一）](https://teddysun.com/486.html)，右键粘贴到 PuTTY 的 `[root@vultr ~]#` 后面：
 
@@ -250,9 +261,17 @@ Enjoy it!
 
 
 
-## 安装 Shadowsocks 客户端
+### 安装 Shadowsocks 客户端
 
 参考 [番茄食用指南](https://tingtalk.me/fq/) 中的「吃番茄」章节。
+
+
+
+## V2Ray
+
+正在实践中。
+
+
 
 ## 后话
 

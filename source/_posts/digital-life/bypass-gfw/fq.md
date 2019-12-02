@@ -2,7 +2,7 @@
 
 title: 番茄食用指南  
 date: 2016-03-03  
-updated: 2019-12-02    
+updated: 2019-12-03    
 
 categories: 
 - 数字生活
@@ -18,27 +18,28 @@ permalink: fq
 
 ---
 
-每一个做外贸，搞设计，写代码或对数字生活有追求的人，都离不开「网上冲浪」的必备佳品：🍅 番茄（fān qiáng）。
+每一个做外贸，搞设计，写代码或者对数字生活有追求的人，都离不开「网上冲浪」的必备佳品：🍅 番茄（fān qiáng）。
 
 <!-- more -->
 
 ## 前言
 
-番茄是一种恶魔果实，可以让食用者得到一种特殊的能力：访问 Google。但是如果你在中国大陆吃番茄，请做好 2 件事。
+番茄是一种恶魔果实，可以让食用者得到一种特殊的能力：访问任何一个网站，例如 Google、YouTube、Twitter 等。但是，如果在中国大陆吃番茄，请注意以下事项。
 
 
 ### 远离国产流氓软件
 
-它们不仅会上报给网管（城管）谁在吃番茄，还会偷偷地在你的番茄里下毒。如果你打不开本文中的链接，可能就是它们搞的鬼。
+它们不仅会上报给网管（城管）谁在吃番茄，还会偷偷地在你的番茄里下毒。如果你打不开本文中的链接，很可能就是它们搞的鬼。
 
 | ✔️                                                      | ❌                        |
 | :----------------------------------------------------------- | :------------------------------ |
 | [火绒安全](https://www.huorong.cn/) <br/>Windows 10 自带的安全中心 | 360 安全卫士<br />腾讯电脑管家<br />金山毒霸<br />…… |
-| [Google Chrome](https://www.google.cn/chrome/)（谷歌浏览器）<br/>  [Firefox](https://www.mozilla.org/zh-CN/firefox/)（火狐浏览器）<br/> Windows 10 自带的 [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) | 360 浏览器<br />QQ 浏览器<br />搜狗浏览器<br />UC 浏览器<br />…… |
+| [Google Chrome](https://www.google.cn/chrome/)（谷歌浏览器）<br/>[Firefox](https://www.mozilla.org/zh-CN/firefox/)（火狐浏览器）<br/> Windows 10 自带的 [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) | 360 浏览器<br />QQ 浏览器<br />搜狗浏览器<br />UC 浏览器<br />…… |
 | Windows 10 自带的拼音 / 五笔输入法 | 搜狗输入法 <br/>QQ 输入法 <br/>百度输入法<br/>…… |
 
-
 关联阅读：[Windows 电脑佳软推荐](https://tingtalk.me/windows/)。
+
+
 
 ### 审查就在你的身边
 
@@ -55,18 +56,38 @@ permalink: fq
 - 诽谤他人，泄露他人隐私，侵害他人合法权益；
 - 含有法律、行政法规禁止的其他内容的信息。
 
-Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党（Ting Dang）指挥，千万别以为出海了就可以为所欲为。否则你可能就会重蹈庭勃士的覆辙：因转发 Twitter 的「不当言论」到微信（WeCheck）群，被抓进派出所 Yum Cha（喝茶）。话不多说，即刻开车，带你翻山涉水，出海买番茄。
+Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党（Ting Dang）指挥，千万别以为吃了番茄就可以为所欲为。否则你可能就会重蹈庭勃士的覆辙：因转发 Twitter 的「不当言论」到微信（WeCheck）群，被抓进派出所 Yum Cha（喝茶）。话不多说，即刻开车，带你翻山涉水，出海买番茄。
 
 
 
 ## 买番茄
 
-目前，我从这两家买番茄：
+如果下方的链接被封了，请使用免费的公益节点访问（不保证时效性）：
+
+- [TSB BLOG：V2Ray](https://tsb2blog.com/wehcat-01.htnl)
+
+
+
+我从哪里买番茄：
 
 - [Just My Socks](https://justmysocks1.net/members/aff.php?aff=1010)：月付 2.88 USD 的番茄缺货中，预计年底才会补货（目前最低价 5.88 USD）。
 - [flycloud](https://www.flycloud.shop/auth/register?code=Lugd)：价格敏感的用户可以选 flycloud 家的番茄，月付最低只要 ￥5（使用优惠码 `S11` 后只要 ￥4）。
 
+
+
+我买不起的番茄：
+
+- [rixCloud](https://xeton.io/cart.php)
+  - 年付 888 CNY，最专业的番茄供应商（之一）
+  - 1 TB 流量
+  - 最高 500Mbps 速率可用（前提你家的网速够快）
+  - Netflix / TVB / Hulu 访问解锁
+
+
+
 为了保险起见，不管是买哪一家的番茄，我都推荐先买一个月的量试用一下。毕竟道高一次，魔高一丈，中国的网管可不是吃素的（可怕的食肉动物），对番茄这种水果极其厌恶。
+
+
 
 ### flycloud
 
