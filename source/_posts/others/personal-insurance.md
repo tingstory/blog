@@ -1,8 +1,8 @@
 ---
 
-title: （人身）保险入门指南    
+title: 人身保险入门指南    
 date: 2019-05-18  
-updated: 2019-10-26  
+updated: 2019-11-30  
 categories: 其它  
 tags: 保险  
 permalink: personal-insurance  
@@ -500,3 +500,7 @@ permalink: personal-insurance
 
 - [放心选](https://fangxin.com/)
 - 且慢（公众号）
+- 混子曰
+  - [保险是什么？](https://mp.weixin.qq.com/s/TgvGnqAPzDHH-9q_HFC4og)
+  - [保险怎么赔？](https://mp.weixin.qq.com/s/EzFnyy_CojcuftqgFQiOJA)
+  - [保险有哪些？](https://mp.weixin.qq.com/s/bCccfBxJGknV0w6ZhA9eow)

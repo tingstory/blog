@@ -16,6 +16,9 @@ Stop focusing on perfect, start focusing on done.
 
 <!-- more -->
 
+  
+- I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.  by 马娅·安杰卢（Maya Angelou）
+
 - All men are created equal.  
   人生而平等。
 

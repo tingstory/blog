@@ -1,8 +1,8 @@
 ---
 
-title: 搜索技巧  
+title: 信息及商品搜索技巧  
 date: 2019-03-11  
-updated: 2019-11-14  
+updated: 2019-12-02  
 categories: 数字生活  
 
 tags: 
@@ -175,8 +175,33 @@ permalink: search-tips
 
 ## 导购搜索
 
-- 购物之前会先去 [放心选](https://m.fangxin.com/#/) 的小程序瞧一瞧评测。
+
+- [消费明鉴](http://www.mingjian.cn/)：「货比三家」领域的百科全书。
+- [放心选](https://m.fangxin.com/#/) 的小程序瞧一瞧评测。
 - 还有 [盖得排行](https://www.guiderank.org/) App。
+
+**数码产品**
+- [Versus](https://versus.com/cn)：设计精美、全能的对比工具。除了对手机、相机、吸尘机等数码类的电子产品和生活用品进行对比，Versus 可以对比不同的国家、城市、大学在环境、人口、文化等方面的差异，在选择旅游目的地、规划旅行的时候会很有用。
+- [MacRumors](https://buyersguide.macrumors.com/)：要不要现在买 iPhone？让它告诉你。
+- [Hotspot 3D](https://www.hotspot3d.com/)：手机 3D 模型对比
+- [RTINGS](https://www.rtings.com/)：如果你想从实际的需求和场景出发，找到一副适合自己的耳机、一台电视或者显示器，RTINGS 就可以帮你。
+
+
+**笔记本电脑**
+- [Laptop Buying Guide Tool - Notebookcheck](https://www.notebookcheck.net/Laptop-Buying-Guide-Tool.13212.0.html)：找出符合自己需求的笔记本。
+- 微信搜索公众号「笔吧评测室」（ID：bibacps），查看历史文章「小白必看：笔记本电脑选购指南」。
+
+
+
+**京价保**
+
+作为京东优质老客户，这个插件为我省了不少钱。
+
+- **官方网站**：jjb.im
+- **价格保护**：全天候监控价格变化，降价自动价保
+- **自动签到**：支持京东会员、京东金融、京东支付
+- **价格走势图**：监控商品价格历史，了解价格走势
+- **关联阅读**：[装上这款 Chrome 插件，去京东购物不用担心「刚买就降价」了 - 少数派](
 
 
 
@@ -187,8 +212,10 @@ permalink: search-tips
 - [Topbook](https://topbook.cc/overview)：高效生活视频书。
 - [少数派](https://sspai.com/)：高效工作，品质生活。
 
-
-
-
+其他：
 - [邮编查询](http://cpdc.chinapost.com.cn/web/)：cpdc.chinapost.com.cn/web
 
+---
+
+参考资料：
+- [买东西前用这些工具「货比三家」，让你不花「冤枉钱」- 少数派](https://sspai.com/post/56338)

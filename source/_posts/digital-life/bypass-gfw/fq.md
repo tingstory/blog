@@ -2,7 +2,7 @@
 
 title: 番茄食用指南  
 date: 2016-03-03  
-updated: 2019-11-29  
+updated: 2019-12-02    
 
 categories: 
 - 数字生活
@@ -18,7 +18,7 @@ permalink: fq
 
 ---
 
-每一个做外贸，搞设计，写代码或对数字生活有追求的人，都离不开「网上冲浪」必备佳品：🍅 番茄（fān qiáng）。
+每一个做外贸，搞设计，写代码或对数字生活有追求的人，都离不开「网上冲浪」的必备佳品：🍅 番茄（fān qiáng）。
 
 <!-- more -->
 
@@ -29,7 +29,7 @@ permalink: fq
 
 ### 远离国产流氓软件
 
-它们不仅会上报给网管谁在吃番茄，还会偷偷地在你的番茄里下毒。如果你打不开本文中的链接，可能就是它们搞的鬼。
+它们不仅会上报给网管（城管）谁在吃番茄，还会偷偷地在你的番茄里下毒。如果你打不开本文中的链接，可能就是它们搞的鬼。
 
 | ✔️                                                      | ❌                        |
 | :----------------------------------------------------------- | :------------------------------ |
@@ -84,13 +84,28 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 - 下载和教程
 - Windows 使用教程
 - 不会用 Clash，就点击右上角的「其他客户端：SSR」
-- 下面的步骤参考 flycloud 提供的教程
+- 下面的步骤参考 flycloud 提供的教程（下文提供的 SS 教程，不适用于 flycloud 家的番茄）
 
 
 
 ### Just My Socks
 
-知名菜农 BandwagonHost（搬瓦工）出品，速度还不错，售后响应及时。但因为名气太大，月付 2.88 USD 的番茄缺货中，目前只能选择月付 5.88 USD的番茄。
+知名菜农 BandwagonHost（搬瓦工）出品，速度还不错，售后响应及时。但因为名气太大，月付 2.88 USD 的番茄缺货中，预计年底才会补货，目前只能选择月付 5.88 USD的番茄。
+
+> Hello, 
+>
+> Just My Socks 100 plan is currently out of stock.
+>
+> Existing Just My Socks 100 services will continue renewing as usual, until cancelled by customer, however new orders are not allowed at this time.
+>
+> We are working on expanding the capabilities of our platform in order to be able to accept future orders of this plan.
+>
+> Regretfully at this moment we are not prepared to give an estimate when it will be back in stock, but we are hoping that it will happen before end of 2019 year.
+>
+> Thank you.
+>
+> Jane Al
+> Just My Socks
 
 
 
@@ -200,6 +215,12 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 
 ## 后记
+
+### 公益节点
+
+以下是我收集到的免费节点，不保证安全性和时效性。
+
+[TSB BLOG：V2Ray](https://tsb2blog.com/wehcat-01.htnl)
 
 ### 备选菜园
 
