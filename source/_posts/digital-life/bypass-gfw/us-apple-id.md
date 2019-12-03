@@ -20,7 +20,7 @@ permalink: us-apple-id
 ## 准备工作
 
 - 伪装成美国人
-	- 1 个 [美国 IP](https://tingtalk.me/fq/)
+	- 1 个 [美国 IP](https://tingtalk.me/fq/)：如果没有，可以添加庭勃士的微信 `804 976 336` 借一个
 	- 借助 [地址生成器](https://www.fakeaddressgenerator.com/World/us_address_generator) 获得美国地址，优选免税州（State）：Delaware / Montana / New Hampshire / Oregon
 - 1 个未注册过 Apple ID 的 email
 - 1 台安装了 [iTunes](https://www.apple.com/itunes/) 的 Windows 电脑（或 1 个可以科学上网的 iPhone、iPad 或者 MacBook，这时就会陷入先有鸡还有先有蛋的问题）：开启全局代理模式，并 [测试](https://whoer.net/zh) IP 归属地是否为美国

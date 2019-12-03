@@ -2,7 +2,7 @@
 
 title: 番茄食用指南  
 date: 2016-03-03  
-updated: 2019-12-03    
+updated: 2019-12-04    
 
 categories: 
 - 数字生活
@@ -68,17 +68,17 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 
 
-我从哪里买番茄：
+我从哪里买番茄（以下链接包含返利，介意者删除 `aff` 后面的 `code`）：
 
 - [Just My Socks](https://justmysocks1.net/members/aff.php?aff=1010)：月付 2.88 USD 的番茄缺货中，预计年底才会补货（目前最低价 5.88 USD）。
-- [flycloud](https://www.flycloud.shop/auth/register?code=Lugd)：价格敏感的用户可以选 flycloud 家的番茄，月付最低只要 ￥5（使用优惠码 `S11` 后只要 ￥4）。
+- [flycloud](https://www.flycloud.shop/auth/register?code=Lugd)：价格敏感的用户可以选 flycloud 家的番茄，月付最低只要 ￥5。
 
 
 
 我买不起的番茄：
 
 - [rixCloud](https://xeton.io/cart.php)
-  - 年付 888 CNY，最专业的番茄供应商（之一）
+  - 年付 888 CNY，最专业的番茄供应商（之一），土豪首选，用金钱换时间
   - 1 TB 流量
   - 最高 500Mbps 速率可用（前提你家的网速够快）
   - Netflix / TVB / Hulu 访问解锁
@@ -91,21 +91,26 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ### flycloud
 
-5 元套餐的性价比极高，但有时可能会断连，毕竟一分钱一分货。
+5 元标准版的性价比极高，但想要更稳更快，加钱。
 
 **怎么买**
 
 - 用手机或者电脑打开 [flycloud](https://www.flycloud.shop/auth/register?code=Lugd)，注册，登录。
+	
 	- 如果上方的链接被封了，请打开 flycloud.gg 获取最新的官网地址。
+	
 - `我的钱包` - `充值：5 元以上`
-- `商店` - `按需选择套餐` -  `选择会员时长：推荐 1 个月` - `使用优惠码：S11` - `立即支付`
+
+- `商店` - `按需选择套餐` -  `选择会员时长：推荐 1 个月` - `立即支付`
+
+  
 
 **如何吃（以 Windows 为例）**
 
 - 下载和教程
 - Windows 使用教程
 - 不会用 Clash，就点击右上角的「其他客户端：SSR」
-- 下面的步骤参考 flycloud 提供的教程（下文提供的 SS 教程，不适用于 flycloud 家的番茄）
+- 下面的步骤参考 flycloud 提供的教程或者移步到「吃番茄」章节
 
 
 
@@ -183,27 +188,97 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 #### Clash for Windows
 
-- 下载 
-  - 官方：[Clash for Windows.exe](https://github.com/Fndroid/clash_for_windows_pkg/releases)  by Fndroid
-  - 备用：[Clash for Windows](https://cdn.rixcloud.io/download/Clash-Windows.exe) by rixCloud
+**下载** 
 
+- 官方：[Clash for Windows.exe](https://github.com/Fndroid/clash_for_windows_pkg/releases)  by Fndroid
+- 备用：[Clash for Windows](https://cdn.rixcloud.io/download/Clash-Windows.exe) by rixCloud
+
+**安装**
+
+- 双击安装
+- 授权运行：点击 `更多信息`，然后选择 `仍要运行`
+- 为 `所有用户` 安装
+- `C` 改为 `D`：D:\Program Files\Clash for Windows
+
+**使用**
+
+- 从番茄商复制 Clash 订阅 URL（托管配置链接）
+- 打开 Clash for Windows，在左侧的标签页中选择 `Profile`， 在顶部输入框粘贴之前复制的订阅 URL，然后点击 `Download` 按钮
+- Clash for Windows 会自动拉取配置文件进行更新，如果一切顺利，你应当可以看到绿色提示信息 `Success!`，并且可以看到一个新的配置文件（如果弹出 `Could not switch to this profile! `，不必理会，点击 `确定`）
+- 点击新的配置文件，切换到该配置，然后点击 `Proxies` 标签页来切换接入点（不同的节点），将顶部的出站模式选择为 `Rule`
+  - 点击智能分流策略组（各家称呼不一样，一般排在第一位）
+  - 点击右上角的 ⚡ 进行测速
+  - 选择所想要使用的接入点
+- 点击左侧的标签页中选择 `General` ，将 `System Proxy` 的开关更改为 `On` 状态即可开始使用。此外，建议将 `Start with Windows` 也更改为 `On` 来让 Clash for Windows 在开机时自动启动
+- 在 `General` 界面点击 `GeoIP Database` 来更新 MaxMind 的 GeoIP2 Lite 数据库。此数据库用于 Geo 规则和 DNS 判断，建议每月至少更新一次
+
+**参考资料**
+
+- [如何在 Clash for Windows 上进行配置 - rixCloud](https://rixcloudkb.io/kb/configured-by-clash-for-windows/)
 
 
 
 ### Android（安卓手机）
 
-- 下载 [shadowsocks--universal.apk](https://github.com/shadowsocks/shadowsocks-android/releases) 
-- 安装后，打开 App，点击右上角的 `＋`，选择 `手动设置`
-- 正确填写（检查是否有空格） `服务器`、`远程端口`、`密码`、`加密方式`
+#### Shadowsocks
+
+- 下载
+  - `小白之选`GitHub：[shadowsocks--universal.apk](https://github.com/shadowsocks/shadowsocks-android/releases)
+  - `极客钦定` Play Store（Android 官方应用商店）：[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+  - `最后备胎` APKPure：[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+- 安装后，打开 App，点击右上角的 `＋`，选择
+  - `手动设置`：正确填写（检查是否有空格） `服务器`、`远程端口`、`密码`、`加密方式`
+  - 扫描二维码
+  - 从剪贴板导入
 - 路由选择 `绕过局域网和中国大陆网址` 或 `GFW List`
 - 点击右上角的 `✔`
 - 选择刚刚创建的配置文件，点击底部小飞机 `✈️️`（网络连接请求选 `确定`）
 - 打开浏览器，在地址栏输入 `google.com/ncr` 测试是否可以访问 [Google](https://www.google.com/search?q=%E5%BA%AD%E8%AF%B4)
 
 
+
+#### ShadowsocksR
+
+- 下载 [ShadowsocksR.apk](https://cdn.rixcloud.io/download/ShadowsocksR.apk)（rixCloud）
+
+- 轻触 App 图标打开，点击左上角的 `ShadowsocksR` ，进入配置文件管理页面，然后点击右下角的 `+`，在弹出的选项中选择 `添加/升级 SSR 订阅`
+
+- 在弹出的菜单中选择 `添加订阅地址`，在新窗口中粘贴之前从番茄商里获取的地址
+
+- 添加完成后会自动返回到之前的菜单，打开 `自动更新`，然后点击 `确定并升级`
+
+- 自动获取完节点后，轻触右上角的 ⚡ 进行 `完整延时测试`，等待若干分钟（节点很多的话，可以中断测试，因为 100 毫秒以下的节点都是可以接受的），在轻触 ⚡ 右边的三道杠 `基于延时自动排序`，选择第一个节点
+
+- 在  `功能设置` 选项卡
+  -  `路由` 中选择 `自定义 ACL 文件`，复制粘贴以下地址（大陆白名单模式（大陆网站/应用直连，其他默认走代理） + 过滤常见广告）：
+      ```
+      https://cdn.rixcloud.io/resource/rules/Android/ACL/banAD.acl
+      ```
+  - 打开 `IPv6 路由`
+  - 打开 `UDP 转发`
+  - 设置 `China DNS` 为
+      ```
+      119.28.28.28:53,119.29.29.29:53,1.2.4.8:53
+      ```
+  - 设置 `DNS` 为
+      ```
+      1.1.1.1:53
+      ```
+  
+- 在 `其他` 选项卡
+
+  - 打开 `自动连接`
+
+- 最后，点击右上角的纸飞机 ✈ 开启代理（初次使用时会弹出 `网络连接请求`，点击 `确定` 即可）
+
+
+
 **Note**
 
+- 把 Shadowsocks(R) 锁定在后台，并设置为开机自启。大部分 Android 系统都会因为电池策略导致 Shadowsocks(R) 应用程序被杀掉导致无法连接网络。出现这种情况的特征是通知栏中 VPN 连接仍然存在，但无法访问网络（包括国内网络）。这是因为 Shadowsocks(R) 主程序和 VPN 框架是独立存在的，主程序被系统清理后会导致流量仍然通过 VPN 路由到本地但没有应用程序来处理这些流量，导致无法上网。
 - 由于代理软件的特殊性，可能导致系统将所有因为网络连接而消耗的电量都计算在代理软件上，这是正常情况，并非严重的续航影响。
+
+
 
 
 ### iOS（iPhone & iPad）
@@ -227,20 +302,35 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 #### 付费 App
 
-- [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)：`$2.99` ，遇到问题，问 Google，或者参考 [Shadowrocket 入门使用教程](https://sspai.com/post/32393)
+- [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)：`$2.99` 
+  - 参考教程：[Shadowrocket 入门使用教程 - 少数派](https://sspai.com/post/32393)
 - [Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)：`$4.99`
+  - 参考教程：[如何在 Quantumult 上进行配置 - rixCloud](https://sspai.com/post/32393)
+
 
 
 ### macOS（苹果电脑）
 
-- [ShadowsocksX-NG.app.zip](https://github.com/shadowsocks/ShadowsocksX-NG/releases) 
+#### ShadowsocksX-NG
+
+- 下载最新的 [ShadowsocksX-NG.zip](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+- 接下来的设置参考 Shadowsocks for Windows
 
 
 
-**Note**
+#### ShadowsocksX-NG-R
 
-- [Shadowsocks 客户端备用下载地址（全平台）](https://justmysocks1.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)。
-- 如果没搞懂下文的食用教程，请移步 [Shadowsocks 客户端使用教程 by Shadowsocks-Wiki](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/README.md)。
+- 下载最新的 [ShadowsocksX-NG-R8.dmg](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+- 接下来的设置参考 ShadowsocksR for Windows
+
+
+
+#### ClashX
+
+- 下载 [ClashX](https://cdn.rixcloud.io/download/ClashX.img)
+- 接下来的设置参考 Clash for Windows
+
+
 
 
 
@@ -251,6 +341,14 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 以下是我收集到的免费节点，不保证安全性和时效性。
 
 [TSB BLOG：V2Ray](https://tsb2blog.com/wehcat-01.htnl)
+
+
+
+### 备选下载
+
+- [Shadowsocks 客户端备用下载地址（全平台）](https://justmysocks1.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)。
+
+  
 
 ### 备选菜园
 
