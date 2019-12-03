@@ -160,12 +160,12 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ## 吃番茄
 
-在手机或电脑上安装好一个叫小火箭牌（Shadowsocks 客户端）的炒锅，然后把番茄放进去，Ta-da，美味的番茄就做好了。
+在手机、电脑或路由器上架好炒锅，然后把番茄放进去，Ta-da，美味的番茄就做好了。
 
 ### Windows（微软 PC）
 
+#### Shadowsocks for Windows
 
-**Shadowsocks for Windows**
 - 下载 [Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-windows/releases) 
 - 在非系统盘新建一个名为 `Shadowsocks` 的文件夹，例如 `D:\Program Files\Shadowsocks`，把下载好的安装包剪切到这里，解压，打开 `Shadowsocks.exe` 
   
@@ -175,10 +175,19 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 	
 	> 代理自动配置（英语：Proxy auto-config，简称 PAC）是一种网页浏览器技术，用于定义浏览器该如何自动选择适当的代理服务器来访问一个网址。
 
-
 **关联阅读**
 
 - [Shadowsocks Windows 使用说明（官方）](https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+
+
+
+#### Clash for Windows
+
+- 下载 
+  - 官方：[Clash for Windows.exe](https://github.com/Fndroid/clash_for_windows_pkg/releases)  by Fndroid
+  - 备用：[Clash for Windows](https://cdn.rixcloud.io/download/Clash-Windows.exe) by rixCloud
+
+
 
 
 ### Android（安卓手机）

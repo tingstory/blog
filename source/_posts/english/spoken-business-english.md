@@ -2,9 +2,8 @@
 
 title: 英语口语：外贸篇  
 date: 2019-07-16  
-updated: 2019-11-27  
-categories:   
-- [英语, 英语口语]  
+updated: 2019-12-03    
+categories: 英语   
 
 tags:  
 - 英语
@@ -116,6 +115,27 @@ permalink: spoken-business-english
 - 📕 Thank you so much for your help! could you please give me your email address?
 - 📗 Sure. brenda@`***`.com My name is Brenda.
 - 📕 OK. Thank you, Branda! Nice talking to you!
+
+
+
+### 客户未回复邮件
+
+- 📕 Cindy
+- 📗 James
+
+**Dialogue**
+
+- 📕 Hi, is James in?  
+- 📗 Yes, speaking.  
+- 📕 This is Cindy from  China. I sent you the quotes  2 weeks ago, but have not heard back yet.
+- 📗 Which company are you calling from, please?
+- 📕 `***` Trading, from Shanghai, China.  
+- 📗 Ah, yes, yes. I've got your offer and transferred it to my assistant. She is now busy checking with all the details and will reply to you before this weekend.
+- 📕 OK. Thank you for letting me know! / Thank you for the update!   
+- 📗 No problem! Have a good one!
+- 📕 Thank you, you too.
+
+
 
 
 

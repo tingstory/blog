@@ -3,7 +3,7 @@
 title: 英语口语：发音篇   
 date: 2019-10-29  
 updated: 2019-10-31  
-categories: [英语, 英语口语]  
+categories: 英语  
 
 tags:  
 - 英语
