@@ -62,19 +62,30 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ## 买番茄
 
-如果下方的链接被封了，请使用免费的公益节点访问（不保证时效性）：
+如果本文中的链接被封了，请使用免费的公益节点访问（不保证时效性）
+
+
 
 **蚂蚁加速器**
-- 在手机电脑上 [下载蚂蚁加速器](https://d.orxs.me/aff/JT8F)，安装并打开
-- 点击线路地址，对蚂蚁出国专线和公共免费线路测速，选择一个最快的
-- 点击右上角的 ⚙ - 路由：`绕过局域网和中国大陆地址` 或 `GFW 列表`
-- 点击中间的电源图标连接减速器，即可起飞
-- 软件内会推广 NSFW 相关的 App，请勿下载！
-- 虽然网速还不错（公共区的美国节点视频秒开），但为了保险起见，通过它访问国际互联网时，请勿使进行敏感操作（例如支付时）。免费的，可能也是最贵的。
+- 在手机或电脑上打开一些任意一个链接
+  - [备用下载链接](https://d.orxs.me/aff/JT8F)
+  - [备用下载链接](https://d.antss049.xyz/aff/JUFT)
+- 下载，安装，打开
+- 点击 `线路地址`，对 `蚂蚁出国专线` 和 `公共免费线路` 进行测速，选择一个最快的线路，返回主界面
+- 点击右上角的小齿轮 ⚙️ - 路由
+  - 首选：`绕过局域网和中国大陆地址` 或 `GFW 列表`
+  - 如果整个模式下无法访问个别网站，临时切换到 `全局模式`
+- 返回到主界面，点击中间的电源图标即可连接减速器，即可起飞
+- 请注意
+  - ❗ 软件内会推广 NSFW（少儿不宜）相关的 App，请勿下载或者访问！这个就是为什么免费的原因。
+  - 虽然网速还不错（有些节点视频秒开），但为了保险起见，通过它访问国际互联网时，请勿使进行敏感操作（例如支付时）。免费的，可能也是最贵的。
+
 
 
 **影子经纪人**
+
 - 访问 [TSB BLOG](https://tsb2blog.com/wehcat-01.htnl) 获得 V2Ray 的节点
+
 
 
 **我从哪里买番茄（以下链接包含返利，介意者删除 `aff` 后面的 `code`）**
@@ -84,13 +95,12 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 
 
-**我买不起的番茄**
+**我买不起的番茄：[rixCloud](https://xeton.io/cart.php)**
 
-- [rixCloud](https://xeton.io/cart.php)
-  - 年付 888 CNY，最专业的番茄供应商（之一），土豪首选，用金钱换时间
-  - 1 TB 流量
-  - 最高 500Mbps 速率可用（前提你家的网速够快）
-  - Netflix / TVB / Hulu 访问解锁
+- 年付 888 CNY，最专业的番茄供应商（之一），土豪首选，用金钱换时间
+- 1 TB 流量
+- 最高 500Mbps 速率可用（前提你家的网速够快）
+- Netflix / TVB / Hulu 访问解锁
 
 
 
@@ -104,22 +114,24 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 **怎么买**
 
-- 用手机或者电脑打开 [flycloud](https://www.flycloud.shop/auth/register?code=Lugd)，注册，登录。
-	
-	- 如果上方的链接被封了，请打开 flycloud.gg 获取最新的官网地址。
-	
-- `我的钱包` - `充值：5 元以上`
 
+- 用手机或者电脑打开 [flycloud](https://www.flycloud.shop/auth/register?code=Lugd)，注册，登录。（如果网站被封了，请打开 [flycloud.gg](https://www.flycloud.gg/) 获取最新的地址）
+- `我的钱包` - `充值：5 元以上`
 - `商店` - `按需选择套餐` -  `选择会员时长：推荐 1 个月` - `立即支付`
 
   
 
 **如何吃（以 Windows 为例）**
 
-- 下载和教程
-- Windows 使用教程
+- `下载和教程` - `Windows 使用教程`
 - 不会用 Clash，就点击右上角的「其他客户端：SSR」
 - 下面的步骤参考 flycloud 提供的教程或者移步到「吃番茄」章节
+
+
+
+**Telegram 频道**
+
+- [flycloud|通知频道](https://t.me/flycloud_news)：`t.me/flycloud_news`
 
 
 
@@ -178,21 +190,29 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 
 ### Windows（微软 PC）
 
-#### Shadowsocks for Windows
+#### Shadowsocks
 
+**下载**
 - 下载 [Shadowsocks.zip](https://github.com/shadowsocks/shadowsocks-windows/releases) 
+
+**安装**
 - 在非系统盘新建一个名为 `Shadowsocks` 的文件夹，例如 `D:\Program Files\Shadowsocks`，把下载好的安装包剪切到这里，解压，打开 `Shadowsocks.exe` 
-  
-    > Windows 7 用户如果无法正常运行 `Shadowsocks.exe`，请下载并安装 [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/thank-you/net472) 后，再尝试打开 `Shadowsocks.exe`
-- 双击桌面右下角任务栏的小飞机，输入 `Server IP`（服务器地址）、`Port`（服务器端口）、`Password`（密码）和 `Encryption`（加密方式），点击 `确定`（**请注意：不要把空格复制进去！**）
-- 再次右键点击小飞机 > `系统代理` > `PAC 模式`（智能分流模式，只代理被屏蔽的网站），即可畅游全球网络
-	
-	> 代理自动配置（英语：Proxy auto-config，简称 PAC）是一种网页浏览器技术，用于定义浏览器该如何自动选择适当的代理服务器来访问一个网址。
+- Windows 7 用户如果无法正常运行 `Shadowsocks.exe`，请下载并安装 [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/thank-you/net472) 后，再尝试打开 `Shadowsocks.exe`
+
+**配置**
+- 方法一（手动）：双击桌面右下角任务栏的小飞机，输入 `Server IP`（服务器地址）、`Port`（服务器端口）、`Password`（密码）和 `Encryption`（加密方式），点击 `确定`（不要把空格复制进去！）
+- 方法二（自动）：打开番茄商提供的二维码，右键点击小飞机 > `服务器` > `扫描屏幕上的二维码`
+- 方法三（自动）：复制番茄商提供的 URL（网址），右键点击小飞机 > `服务器` > `从剪贴板导入 URL`
+
+**运行**
+- 右键点击小飞机 > `PAC` > `从 GFWList 更新本地 PAC`
+- 右键点击小飞机 > `系统代理` > `PAC 模式`（智能分流模式，只代理被屏蔽的网站），即可畅游全球网络
+
+> 代理自动配置（英语：Proxy auto-config，简称 PAC）是一种网页浏览器技术，用于定义浏览器该如何自动选择适当的代理服务器来访问一个网址。
 
 **关联阅读**
 
 - [Shadowsocks Windows 使用说明（官方）](https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
-
 
 
 #### Clash for Windows
@@ -217,7 +237,7 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 - 点击新的配置文件，切换到该配置，然后点击 `Proxies` 标签页来切换接入点（不同的节点），将顶部的出站模式选择为 `Rule`
   - 点击智能分流策略组（各家称呼不一样，一般排在第一位）
   - 点击右上角的 ⚡ 进行测速
-  - 选择所想要使用的接入点
+  - 选择最快的接入点
 - 点击左侧的标签页中选择 `General` ，将 `System Proxy` 的开关更改为 `On` 状态即可开始使用。此外，建议将 `Start with Windows` 也更改为 `On` 来让 Clash for Windows 在开机时自动启动
 - 在 `General` 界面点击 `GeoIP Database` 来更新 MaxMind 的 GeoIP2 Lite 数据库。此数据库用于 Geo 规则和 DNS 判断，建议每月至少更新一次
 
@@ -249,15 +269,10 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
 #### ShadowsocksR
 
 - 下载 [ShadowsocksR.apk](https://cdn.rixcloud.io/download/ShadowsocksR.apk)（rixCloud）
-
 - 轻触 App 图标打开，点击左上角的 `ShadowsocksR` ，进入配置文件管理页面，然后点击右下角的 `+`，在弹出的选项中选择 `添加/升级 SSR 订阅`
-
 - 在弹出的菜单中选择 `添加订阅地址`，在新窗口中粘贴之前从番茄商里获取的地址
-
 - 添加完成后会自动返回到之前的菜单，打开 `自动更新`，然后点击 `确定并升级`
-
 - 自动获取完节点后，轻触右上角的 ⚡ 进行 `完整延时测试`，等待若干分钟（节点很多的话，可以中断测试，因为 100 毫秒以下的节点都是可以接受的），在轻触 ⚡ 右边的三道杠 `基于延时自动排序`，选择第一个节点
-
 - 在  `功能设置` 选项卡
   -  `路由` 中选择 `自定义 ACL 文件`，复制粘贴以下地址（大陆白名单模式（大陆网站/应用直连，其他默认走代理） + 过滤常见广告）：
       ```
@@ -273,11 +288,9 @@ Ting 我 Talk 一句：只要肉身在中国大陆，我们的一切行动听党
       ```
       1.1.1.1:53
       ```
-  
 - 在 `其他` 选项卡
-
+  
   - 打开 `自动连接`
-
 - 最后，点击右上角的纸飞机 ✈ 开启代理（初次使用时会弹出 `网络连接请求`，点击 `确定` 即可）
 
 

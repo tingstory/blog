@@ -1,6 +1,6 @@
 ---
 
-title: 来自客户的 email 
+title: 来自客户的英文例句
 date: 2019-11-18  
 updated: 2019-11-18  
 categories: 外贸
@@ -8,9 +8,17 @@ tags: 外贸
 permalink: email  
 ---
 
-如何写一封能收到回复的开发信？
+
 
 <!-- more -->
+
+
+
+
+
+Shipping cost is a little higher than expected but please allow me to discuss it with my partner. I’ll get back to you in a couple of hours
+
+
 
 I received my order yesterday and found the items intact. I would like to thank you for that. 
 
