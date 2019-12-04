@@ -2,9 +2,9 @@
 
 title: GTD 时间管理法则 
 date: 2019-11-24   
-updated: 2019-12-04  
+updated: 2019-12-05  
 categories: 其它
-tags:生活
+tags: 生活
 permalink: gtd  
 
 ---
