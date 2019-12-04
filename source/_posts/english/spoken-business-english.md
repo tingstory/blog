@@ -2,7 +2,7 @@
 
 title: 英语口语：外贸篇  
 date: 2019-07-16  
-updated: 2019-12-03    
+updated: 2019-12-04    
 categories: 英语   
 
 tags:  
@@ -136,6 +136,25 @@ permalink: spoken-business-english
 - 📕 Thank you, you too.
 
 
+
+### 邮箱出问题
+
+- 📕 Cindy
+- 📗 Reno (French)
+
+**Dialogue**
+
+- 📗 Bonjour! A qui voulez-vous parler? 
+- 📕 Bonjour! Monsieur! This is Cindy from `***` Trading.
+- 📗 Hello, Cindy! Nice talking to you again! I haven't heard from you for a long time. How are you?
+- 📕 Not too bad. Really busy after the Canton Fair. How about you?
+- 📗 Good. I just came back from (my) vacation (last week).
+- 📕 Woo, where did you go?
+- 📗 Monte Carlo (, in Monaco)
+- 📕 That sounds awesome! (What did you do there?)
+- 📗 Yeah! It was great.
+- 📕 By the way, I would like to inform you that I'm having problems with my mail server. I sent you an email just now from my personal mailbox. Please contact me through this email until the problem is fixed.
+- 📗 Sure, I will check it and reply to you soon.
 
 
 
@@ -432,7 +451,7 @@ permalink: spoken-business-english
 
 
 
-## Other
+## Emoji
 
 - 📕 
 - 📗 
@@ -459,9 +478,4 @@ permalink: spoken-business-english
 - 📕 
 - 📗 
 - 📕 
-
----
-
-- Specific：口述的参数或规格
-- Specification：成册的规格书或参数表
 

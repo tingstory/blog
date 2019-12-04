@@ -506,6 +506,13 @@ We found a pick-your-own apple orchard `'ɔrtʃərd`.
 
 
 
+### Specific
+
+- Specific：口述的参数或规格
+- Specification：成册的规格书或参数表
+
+
+
 ## T
 
 ### What do you think? ≠ How do you think?

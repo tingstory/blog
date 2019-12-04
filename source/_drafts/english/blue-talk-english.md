@@ -34,6 +34,10 @@ Breaking up is hard for me. I have never broken up with anyone before. Blue fish
 
 
 
+I am still in denial about the break-up of our relationship. 
+
+
+
 We haven't been happy together since 2014, so we broke up many times during 2014 to 2016.
 
 
