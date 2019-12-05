@@ -1,6 +1,6 @@
 title: 中文排版指南    
 date: 2017-12-05  
-updated: 2019-11-02  
+updated: 2019-12-05  
 categories: [设计, 排版]  
 
 tags: 
@@ -319,6 +319,15 @@ permalink: typography
 
 
 
+## 首行顶格
+
+- 段落首行缩进 2 个字符是纸媒时代的旧习，文章的排版像狗啃了一样
+- 在数字时代（特别是在移动端）
+  - 首行顶格
+  - 段落之间用空行隔开
+
+
+
 ## 争议之处
 
 以下用法略带有个人色彩，如有高见，欢迎与我（微信号：804 976 336）讨论。
@@ -358,10 +367,19 @@ permalink: typography
 
 ### 「直角引号」代替“蝌蚪”引号
 
-听说，直角引号与方块字更配哦。
+**理由**
+- 直引号或弯引号在数字世界容易渲染出错，是半角还是全角？是英文还是中文，飘忽不定。
+- 直角引号与方块字更加契合。
+
+
+**输入**
 - ✔️：[如何输入「直角引号」？](https://www.zhihu.com/question/19755746)
 - ❌：[如何输入“直角引号”？](https://www.zhihu.com/question/19755746)
-- 📝：当引号表示讽刺、反语暗示时，使用弯引号（工作使我“快乐”）
+
+  
+
+**例外**
+- 当引号表示讽刺、反语暗示时，使用弯引号：工作使我“快乐”
 
 
 
@@ -402,6 +420,7 @@ permalink: typography
 
 - [英文排版（风格）指南](https://tingtalk.me/english-style-guide/)
 - [公众号排版指南](https://mp.weixin.qq.com/s/7TX2e_1_AmH9aP7z0Io-qQ)
+- [Markdown Nice](https://mdnice.com/)：我目前在用的公众号一键排版工具，强烈推荐。
 
 
 
@@ -416,3 +435,4 @@ permalink: typography
 - [中英文混排时中文与英文之间是否要有空格？ - 知乎](https://www.zhihu.com/question/19587406)
 - [少数派写作排版指南](https://sspai.com/post/37815)
 - [为什么你们就是不能加个空格呢？- 少数派](https://sspai.com/post/33549)
+- [浅谈微信推文编辑 - 荷戟独彷徨](https://blog.guanqr.com/life/ideas/wechat-article-typography/)

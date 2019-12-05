@@ -27,7 +27,6 @@ permalink: search-tips
 - 微信搜索
 	- 在 App 内搜索：直接打开微信 App，点击右上角的放大镜 🔍。
 	- [搜狗微信搜索](https://weixin.sogou.com/)：订阅号及文章内容独家收录。网址： weixin.sogou.com
-
 - [Magi](https://www.peak-labs.com/docs/zh/magi/intro)：由 [Peak Labs](https://www.peak-labs.com/) 研发的基于机器学习的信息抽取和检索系统，它能将任何领域的自然语言文本中的知识提取成结构化的数据，通过终身学习持续聚合和纠错，进而为人类用户和其他人工智能提供**可解析**、**可检索**、**可溯源**的知识体系。
 - [Wolfram Alpha](https://www.wolframalpha.com/)：直接向用户返回答案，而不是像传统搜寻引擎一样提供一系列可能含有用户所需答案的相关网页。
 - [夸克 App](https://www.myquark.cn/)：无广告，排版舒适

@@ -14,6 +14,10 @@ permalink: email
 
 
 
+Thank you for all your accommodations please allow me a day to consult with my partner.
+
+
+
 
 
 Shipping cost is a little higher than expected but please allow me to discuss it with my partner. I’ll get back to you in a couple of hours

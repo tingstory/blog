@@ -164,7 +164,6 @@ permalink: on-page-seo
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   - [GTmetrix](https://gtmetrix.com/)：PageSpeed Score + YSlow Score ＞ 180%
 - [Pagespeed -  Varvy](https://varvy.com/pagespeed/)：提供详细的优化建议
-  
 - 压缩图片：小图（缩略图）小于 60KB，大图小于 200KB；可以使用 [TinyPNG](https://tinypng.com/) 压缩图片
 - WordPress 优化插件：WPROCKET（推荐）、WPSMUSH、AUTOPTAMIZE（15 个插件以内）
 
@@ -196,11 +195,8 @@ permalink: on-page-seo
     - 新手按照项目付费，不要时薪付费。
     - 在大项目（5 万美金）合作之前，用小项目（50 美金的 Small Project）试水。
   - 价格较低：[Fiverr](https://www.fiverr.com/)
-
 - 添加产品评论（前期可以通过技术手段添加）
 - 在产品的详细描述中加粗关键，并添加几个内链
-
-
 - 使用社交分享按钮
 
 
@@ -214,7 +210,7 @@ permalink: on-page-seo
 <img src="/i/eg_tulip.jpg"  alt="上海鲜花港 - 郁金香" />
 ```
 
-假设由于下列原因用户无法查看图像，alt 属性可以为图像提供替代（alternate）的信息作为一种补救措施：
+假设由于下列原因用户无法查看图像，alt 属性可以提供替代（alternate）的信息作为一种补救措施：
 
 - 网速太慢
 - 图像 src 属性错误

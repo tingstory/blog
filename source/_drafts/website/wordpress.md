@@ -140,6 +140,10 @@ https://www.hellobar.com/
 
 
 
+[Exit Popup](https://cn.wordpress.org/plugins/exit-popup/)
+
+
+
 
 
 
@@ -176,6 +180,10 @@ Google Site Kit for Wordpress 已开放下载。这是谷歌为 Wordpress 做的
 
 推荐使用 Wordpress的站长尝试。
 内容站主题：2020主题
+
+[支持备案的域名（域名注册管理机构审批情况）- 工信部](http://xn--eqrt2g.xn--vuq861b/#)
+
+
 
 
 

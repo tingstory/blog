@@ -2,7 +2,7 @@
 
 title: Windows 电脑：使用技巧、佳软推荐、重装教程  
 date: 2017-12-18  
-updated: 2019-11-27  
+updated: 2019-12-05  
 categories: 数字生活  
 tags: 
 - 数字生活
@@ -11,7 +11,7 @@ permalink: windows
 
 ---
 
-不得不说，Windows 10 越更新越好用了，也许你没有发现，且听我慢慢道来，跟着我的节奏，释放 Windows 10 的潜力。
+不得不承认，Windows 10 越更新越好用了。下面跟着我的节奏，一起释放 Windows 10 的潜力。
 
 <!-- more -->
 
@@ -231,7 +231,7 @@ permalink: windows
 
 
 
-### 图片处理
+### 图像处理
 
 #### [Snipaste](https://zh.snipaste.com/)
 
@@ -291,6 +291,7 @@ permalink: windows
 - 免费开源的 GIF 录屏工具，支持 macOS 和 Windows 平台。
 - 如果 LICEcap 不能满足你的要求，试试 [ScreenToGif](https://www.screentogif.com/)，不过录制出来的 GIF 体积偏大。
 - [ezGIF](https://ezgif.com/)：免费的在线压缩工具。
+- `Win + G` 启动录制屏幕工具。
 
 
 
