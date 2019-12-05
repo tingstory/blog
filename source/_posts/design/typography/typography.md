@@ -44,6 +44,7 @@ permalink: typography
 | WeChat        | Wechat、wechat               |
 | WhatsApp      | Whatsapp、whatsapp           |
 | Wi-Fi         | WIFI、WiFi、wifi             |
+| YouTube       | Youtube                     |
 | 登录          | 登陆                         |
 
 
