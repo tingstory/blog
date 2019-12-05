@@ -2,7 +2,7 @@
 
 title: 美区 Apple ID 注册指南  
 date: 2019-05-15  
-updated: 2019-11-19  
+updated: 2019-12-05  
 categories: [数字生活, 科学上网]  
 tags:
 - 数字生活
@@ -19,11 +19,16 @@ permalink: us-apple-id
 
 ## 准备工作
 
-- 伪装成美国人
-	- 1 个 [美国 IP](https://tingtalk.me/fq/)：如果没有，可以添加庭勃士的微信 `804 976 336` 借一个
-	- 借助 [地址生成器](https://www.fakeaddressgenerator.com/World/us_address_generator) 获得美国地址，优选免税州（State）：Delaware / Montana / New Hampshire / Oregon
+核心思想是伪装成在美国上网的美国人：
+
+- 1 个美国 IP：打开 [番茄食用指南](https://tingtalk.me/fq/) > 买番茄 > 免费的番茄 > 蚂蚁加速器：选择一个美国的线路，开启全局代理模式，并 [测试 IP](https://whoer.net/zh)  归属地是否为美国。
+- 1 个美国地址：借助 [地址生成器](https://www.fakeaddressgenerator.com/World/us_address_generator) 获得一个虚假的美国人信息。优选免税州（State）：Delaware / Montana / New Hampshire / Oregon。
 - 1 个未注册过 Apple ID 的 email
-- 1 台安装了 [iTunes](https://www.apple.com/itunes/) 的 Windows 电脑（或 1 个可以科学上网的 iPhone、iPad 或者 MacBook，这时就会陷入先有鸡还有先有蛋的问题）：开启全局代理模式，并 [测试](https://whoer.net/zh) IP 归属地是否为美国
+- 1 台安装了 iTunes 的设备（任选其一）
+  - Windows 电脑需要下载 [iTunes](https://www.apple.com/itunes/)
+  - MacBook 电脑自带  iTunes
+
+
 
 
 ## 注册步骤
@@ -80,5 +85,5 @@ permalink: us-apple-id
 ## 下载 App
 
 - 打开 `设置` - `iTunes Store 与 App Store`，点击顶部的 `Apple ID: ****@***` - `退出登录`，切换到刚刚注册好的美区 Apple ID
-- 现在，你可以尽情下载美区 App Store 的 app
+- 现在，你可以尽情下载美区 App Store 里的 app
 - 安装完成之后，可以切换回以前 Apple ID
